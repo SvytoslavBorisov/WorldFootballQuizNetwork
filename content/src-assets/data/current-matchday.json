@@ -1,6 +1,12 @@
 {
   "version": 1,
-  "file": "mt_barcelona_realmadrid.json",
-  "sha256": "15d084208213deafd358054e8daf43b547e78f263e583a7a37ab509688dc1215",
-  "bytes": 79814
+  "file": "mt_liverpool_chelsea_2b9fffd61f264274.json",
+  "sha256": "2b9fffd61f26427482bb573dfe1760d5bef34aa58a5a250da7db67a082a654f7",
+  "bytes": 80583,
+  "title": {
+    "ru": "Ливерпуль — Челси",
+    "en": "Liverpool — Chelsea"
+  },
+  "homeClubId": "club_liverpool",
+  "awayClubId": "club_chelsea"
 }

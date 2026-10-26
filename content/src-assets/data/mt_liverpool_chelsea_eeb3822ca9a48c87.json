@@ -1,0 +1,2702 @@
+{
+  "id": "matchday",
+  "title": {
+    "ru": "Битва недели",
+    "en": "Main Event"
+  },
+  "packs": [
+    {
+      "id": "mt_liverpool_chelsea",
+      "title": {
+        "ru": "Ливерпуль — Челси",
+        "en": "Liverpool — Chelsea"
+      },
+      "summary": {
+        "ru": "Команды провели между собой 201 матч во всех турнирах. Ливерпуль имеет небольшое преимущество: 111 побед против 90 у Челси.",
+        "en": "Команды провели между собой 201 матч во всех турнирах. Ливерпуль имеет небольшое преимущество: 111 побед против 90 у Челси."
+      },
+      "fixture": {
+        "competition": "efl_cup",
+        "round": "4 раунд",
+        "roundEn": "Round 4",
+        "kickoff": "2026-10-28T20:00:00.000Z",
+        "clubIds": [
+          "club_liverpool",
+          "club_chelsea"
+        ],
+        "sourceUrl": "https://soccer365.ru/live/match-chelsi-liverpul-smotret-onlayn/"
+      },
+      "items": [
+        {
+          "id": "mt_liverpool_chelsea__club_liverpool_15",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как прозвали ранний состав Ливерпуля, почти полностью собранный из шотландцев?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Team of Macs",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Красная армия",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Копские львы",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Шотландская гвардия",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Мерсисайдские тигры",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Anfield Scots",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Red Macs",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Первый состав получил прозвище Team of Macs из-за большого числа шотландских игроков и характерных фамилий с Mac и Mc.",
+          "difficulty": "hard",
+          "sourceQuestionId": "club_liverpool_15"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_chelsea_214",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {
+            "maxWrongOptions": 3
+          },
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "chelsea_gabriel-slonina",
+            "dialogSlug": "chelsea_gabriel-slonina",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "Габриэл",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "Марко Палестра",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "Коул Палмер",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "Пеп Чаваррия",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "text": "Тедди Шарман-Лоу",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Леви Колуилл",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Жуан Педро",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "difficulty": "normal",
+          "playerInfo": {
+            "age": 22,
+            "nationality": "США",
+            "countryCode": "US",
+            "position": "Вратарь"
+          },
+          "sourceQuestionId": "club_chelsea_214"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_liverpool_205",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {
+            "maxWrongOptions": 3
+          },
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "liverpool_vitezslav-jaros",
+            "dialogSlug": "liverpool_vitezslav-jaros",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "Витезслав Ярош",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "Юго Экитике",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "Фредди Вудмен",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "Костас Цимикас",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "text": "Вирджил ван Дейк",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Джованни Леони",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Виктор Муньос",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "difficulty": "hard",
+          "playerInfo": {
+            "age": 25,
+            "nationality": "Чехия",
+            "countryCode": "CZ",
+            "position": "Вратарь"
+          },
+          "sourceQuestionId": "club_liverpool_205"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_chelsea_56",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какой воспитанник Челси на долгие годы стал капитаном команды?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Джон Терри",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Фрэнк Лэмпард",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Дидье Дрогба",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Эшли Коул",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Джо Коул",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Уэйн Бридж",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Гэри Кэхилл",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Терри дебютировал за первую команду Челси в 1998 году.",
+          "difficulty": "easy",
+          "sourceQuestionId": "club_chelsea_56"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_liverpool_241",
+          "type": 307,
+          "kind": "season_table",
+          "questionText": "Какой это сезон?",
+          "difficulty": "hard",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "payload": {
+            "source": "group",
+            "title": "Лига чемпионов · Группа B",
+            "maxWrongOptions": 3,
+            "compact": true,
+            "columns": [
+              {
+                "key": "position",
+                "label": "М",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "team",
+                "label": "Команда",
+                "width": 2.8,
+                "align": "left"
+              },
+              {
+                "key": "played",
+                "label": "И",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "wins",
+                "label": "В",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "draws",
+                "label": "Н",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "losses",
+                "label": "П",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "goalDifference",
+                "label": "РМ",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "points",
+                "label": "О",
+                "width": 0.65,
+                "align": "center"
+              }
+            ],
+            "rows": [
+              {
+                "rank": 1,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "1"
+                  },
+                  "team": {
+                    "value": "Реал Мадрид"
+                  },
+                  "played": {
+                    "value": "6"
+                  },
+                  "wins": {
+                    "value": "6"
+                  },
+                  "draws": {
+                    "value": "0"
+                  },
+                  "losses": {
+                    "value": "0"
+                  },
+                  "goalDifference": {
+                    "value": "+14"
+                  },
+                  "points": {
+                    "value": "18"
+                  }
+                }
+              },
+              {
+                "rank": 2,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "2"
+                  },
+                  "team": {
+                    "value": "FC Basel"
+                  },
+                  "played": {
+                    "value": "6"
+                  },
+                  "wins": {
+                    "value": "2"
+                  },
+                  "draws": {
+                    "value": "1"
+                  },
+                  "losses": {
+                    "value": "3"
+                  },
+                  "goalDifference": {
+                    "value": "-1"
+                  },
+                  "points": {
+                    "value": "7"
+                  }
+                }
+              },
+              {
+                "rank": 3,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "3"
+                  },
+                  "team": {
+                    "value": "Ливерпуль"
+                  },
+                  "played": {
+                    "value": "6"
+                  },
+                  "wins": {
+                    "value": "1"
+                  },
+                  "draws": {
+                    "value": "2"
+                  },
+                  "losses": {
+                    "value": "3"
+                  },
+                  "goalDifference": {
+                    "value": "-4"
+                  },
+                  "points": {
+                    "value": "5"
+                  }
+                }
+              },
+              {
+                "rank": 4,
+                "cells": {
+                  "position": {
+                    "value": "4"
+                  },
+                  "team": {
+                    "value": "Ludogorets Razgrad"
+                  },
+                  "played": {
+                    "value": "6"
+                  },
+                  "wins": {
+                    "value": "1"
+                  },
+                  "draws": {
+                    "value": "1"
+                  },
+                  "losses": {
+                    "value": "4"
+                  },
+                  "goalDifference": {
+                    "value": "-9"
+                  },
+                  "points": {
+                    "value": "4"
+                  }
+                }
+              }
+            ]
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "2014/2015",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "2002/2003",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "2022/2023",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "2008/2009",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_5",
+              "text": "1994/1995",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_6",
+              "text": "2017/2018",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_7",
+              "text": "2005/2006",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_liverpool_241"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_chelsea_248",
+          "type": 307,
+          "kind": "season_table",
+          "questionText": "Какой это сезон?",
+          "difficulty": "easy",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "payload": {
+            "source": "group",
+            "title": "Лига чемпионов · Группа E",
+            "maxWrongOptions": 3,
+            "compact": true,
+            "columns": [
+              {
+                "key": "position",
+                "label": "М",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "team",
+                "label": "Команда",
+                "width": 2.8,
+                "align": "left"
+              },
+              {
+                "key": "played",
+                "label": "И",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "wins",
+                "label": "В",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "draws",
+                "label": "Н",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "losses",
+                "label": "П",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "goalDifference",
+                "label": "РМ",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "points",
+                "label": "О",
+                "width": 0.65,
+                "align": "center"
+              }
+            ],
+            "rows": [
+              {
+                "rank": 1,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "1"
+                  },
+                  "team": {
+                    "value": "Ювентус"
+                  },
+                  "played": {
+                    "value": "6"
+                  },
+                  "wins": {
+                    "value": "3"
+                  },
+                  "draws": {
+                    "value": "3"
+                  },
+                  "losses": {
+                    "value": "0"
+                  },
+                  "goalDifference": {
+                    "value": "+8"
+                  },
+                  "points": {
+                    "value": "12"
+                  }
+                }
+              },
+              {
+                "rank": 2,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "2"
+                  },
+                  "team": {
+                    "value": "Шахтёр Донецк"
+                  },
+                  "played": {
+                    "value": "6"
+                  },
+                  "wins": {
+                    "value": "3"
+                  },
+                  "draws": {
+                    "value": "1"
+                  },
+                  "losses": {
+                    "value": "2"
+                  },
+                  "goalDifference": {
+                    "value": "+4"
+                  },
+                  "points": {
+                    "value": "10"
+                  }
+                }
+              },
+              {
+                "rank": 3,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "3"
+                  },
+                  "team": {
+                    "value": "Челси"
+                  },
+                  "played": {
+                    "value": "6"
+                  },
+                  "wins": {
+                    "value": "3"
+                  },
+                  "draws": {
+                    "value": "1"
+                  },
+                  "losses": {
+                    "value": "2"
+                  },
+                  "goalDifference": {
+                    "value": "+6"
+                  },
+                  "points": {
+                    "value": "10"
+                  }
+                }
+              },
+              {
+                "rank": 4,
+                "cells": {
+                  "position": {
+                    "value": "4"
+                  },
+                  "team": {
+                    "value": "FC Nordsjælland (Farum)"
+                  },
+                  "played": {
+                    "value": "6"
+                  },
+                  "wins": {
+                    "value": "0"
+                  },
+                  "draws": {
+                    "value": "1"
+                  },
+                  "losses": {
+                    "value": "5"
+                  },
+                  "goalDifference": {
+                    "value": "-18"
+                  },
+                  "points": {
+                    "value": "1"
+                  }
+                }
+              }
+            ]
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "2012/2013",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "2000/2001",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "2020/2021",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "2006/2007",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_5",
+              "text": "1992/1993",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_6",
+              "text": "2015/2016",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_7",
+              "text": "2003/2004",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_chelsea_248"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_liverpool_81",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какому клубу Ливерпуль уступил чемпионство Премьер-лиги в сезоне 2018/19 всего на одно очко?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Манчестер Сити",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Манчестер Юнайтед",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Челси",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Арсенал",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Тоттенхэм",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Астон Вилла",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Блэкберн Роверс",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Ливерпуль набрал 97 очков и проиграл только один матч, но Манчестер Сити набрал 98.",
+          "difficulty": "easy",
+          "sourceQuestionId": "club_liverpool_81"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_chelsea_217",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {
+            "maxWrongOptions": 3
+          },
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "chelsea_maxence-lacroix",
+            "dialogSlug": "chelsea_maxence-lacroix",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "Максанс Лакруа",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "Педру Нету",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "Жуан Педро",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "Коул Палмер",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "text": "Габриэл",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Эмилиано Мартинес",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Пеп Чаваррия",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "difficulty": "normal",
+          "playerInfo": {
+            "age": 26,
+            "nationality": "Франция",
+            "countryCode": "FR",
+            "position": "Защитник"
+          },
+          "sourceQuestionId": "club_chelsea_217"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_liverpool_215",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {
+            "maxWrongOptions": 3
+          },
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "liverpool_ronald-araujo",
+            "dialogSlug": "liverpool_ronald-araujo",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "Рональд Араухо",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "Бредли Баркола",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "Жереми Жаке",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "Райан Гравенберх",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "text": "Рио Нгумоха",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Трей Найони",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Виктор Муньос",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "difficulty": "easy",
+          "playerInfo": {
+            "age": 27,
+            "nationality": "Уругвай",
+            "countryCode": "UY",
+            "position": "Защитник"
+          },
+          "sourceQuestionId": "club_liverpool_215"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_chelsea_18",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто является самым молодым футболистом, достигшим отметки в 100 голов в высшем дивизионе Англии?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Джимми Гривз",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Майкл Оуэн",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Уэйн Руни",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Джимми Флойд Хассельбайнк",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Бобби Тэмблинг",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Алан Ширер",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Гарри Кейн",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Джимми Гривзу было 20 лет и 290 дней.",
+          "difficulty": "normal",
+          "sourceQuestionId": "club_chelsea_18"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_liverpool_235",
+          "type": 307,
+          "kind": "season_table",
+          "questionText": "Какой это сезон?",
+          "difficulty": "normal",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "payload": {
+            "source": "standings",
+            "columns": [
+              {
+                "key": "position",
+                "label": "М",
+                "width": 0.55,
+                "align": "center"
+              },
+              {
+                "key": "team",
+                "label": "Команда",
+                "width": 2.7,
+                "align": "left"
+              },
+              {
+                "key": "played",
+                "label": "И",
+                "width": 0.62,
+                "align": "center"
+              },
+              {
+                "key": "wins",
+                "label": "В",
+                "width": 0.62,
+                "align": "center"
+              },
+              {
+                "key": "draws",
+                "label": "Н",
+                "width": 0.62,
+                "align": "center"
+              },
+              {
+                "key": "losses",
+                "label": "П",
+                "width": 0.62,
+                "align": "center"
+              },
+              {
+                "key": "goalDifference",
+                "label": "РМ",
+                "width": 0.78,
+                "align": "center"
+              },
+              {
+                "key": "points",
+                "label": "О",
+                "width": 0.7,
+                "align": "center"
+              }
+            ],
+            "rows": [
+              {
+                "rank": 1,
+                "cells": {
+                  "position": {
+                    "value": "1"
+                  },
+                  "team": {
+                    "value": "Манчестер Сити"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "27"
+                  },
+                  "draws": {
+                    "value": "5"
+                  },
+                  "losses": {
+                    "value": "6"
+                  },
+                  "goalDifference": {
+                    "value": "+65"
+                  },
+                  "points": {
+                    "value": "86"
+                  }
+                }
+              },
+              {
+                "rank": 2,
+                "cells": {
+                  "position": {
+                    "value": "2"
+                  },
+                  "team": {
+                    "value": "Ливерпуль"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "26"
+                  },
+                  "draws": {
+                    "value": "6"
+                  },
+                  "losses": {
+                    "value": "6"
+                  },
+                  "goalDifference": {
+                    "value": "+51"
+                  },
+                  "points": {
+                    "value": "84"
+                  }
+                }
+              },
+              {
+                "rank": 3,
+                "cells": {
+                  "position": {
+                    "value": "3"
+                  },
+                  "team": {
+                    "value": "Челси"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "25"
+                  },
+                  "draws": {
+                    "value": "7"
+                  },
+                  "losses": {
+                    "value": "6"
+                  },
+                  "goalDifference": {
+                    "value": "+44"
+                  },
+                  "points": {
+                    "value": "82"
+                  }
+                }
+              },
+              {
+                "rank": 4,
+                "cells": {
+                  "position": {
+                    "value": "4"
+                  },
+                  "team": {
+                    "value": "Арсенал"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "24"
+                  },
+                  "draws": {
+                    "value": "7"
+                  },
+                  "losses": {
+                    "value": "7"
+                  },
+                  "goalDifference": {
+                    "value": "+27"
+                  },
+                  "points": {
+                    "value": "79"
+                  }
+                }
+              },
+              {
+                "rank": 5,
+                "cells": {
+                  "position": {
+                    "value": "5"
+                  },
+                  "team": {
+                    "value": "Эвертон"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "21"
+                  },
+                  "draws": {
+                    "value": "9"
+                  },
+                  "losses": {
+                    "value": "8"
+                  },
+                  "goalDifference": {
+                    "value": "+22"
+                  },
+                  "points": {
+                    "value": "72"
+                  }
+                }
+              },
+              {
+                "rank": 6,
+                "cells": {
+                  "position": {
+                    "value": "6"
+                  },
+                  "team": {
+                    "value": "Тоттенхэм"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "21"
+                  },
+                  "draws": {
+                    "value": "6"
+                  },
+                  "losses": {
+                    "value": "11"
+                  },
+                  "goalDifference": {
+                    "value": "+4"
+                  },
+                  "points": {
+                    "value": "69"
+                  }
+                }
+              }
+            ],
+            "compact": false,
+            "maxWrongOptions": 3
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "2013/2014",
+              "slug": "",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "2001/2002",
+              "slug": "",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "2021/2022",
+              "slug": "",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "2007/2008",
+              "slug": "",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_5",
+              "text": "1993/1994",
+              "slug": "",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_6",
+              "text": "2016/2017",
+              "slug": "",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_7",
+              "text": "2004/2005",
+              "slug": "",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_liverpool_235"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_chelsea_247",
+          "type": 307,
+          "kind": "season_table",
+          "questionText": "Какой это сезон?",
+          "difficulty": "easy",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "payload": {
+            "source": "standings",
+            "columns": [
+              {
+                "key": "position",
+                "label": "М",
+                "width": 0.55,
+                "align": "center"
+              },
+              {
+                "key": "team",
+                "label": "Команда",
+                "width": 2.7,
+                "align": "left"
+              },
+              {
+                "key": "played",
+                "label": "И",
+                "width": 0.62,
+                "align": "center"
+              },
+              {
+                "key": "wins",
+                "label": "В",
+                "width": 0.62,
+                "align": "center"
+              },
+              {
+                "key": "draws",
+                "label": "Н",
+                "width": 0.62,
+                "align": "center"
+              },
+              {
+                "key": "losses",
+                "label": "П",
+                "width": 0.62,
+                "align": "center"
+              },
+              {
+                "key": "goalDifference",
+                "label": "РМ",
+                "width": 0.78,
+                "align": "center"
+              },
+              {
+                "key": "points",
+                "label": "О",
+                "width": 0.7,
+                "align": "center"
+              }
+            ],
+            "rows": [
+              {
+                "rank": 10,
+                "cells": {
+                  "position": {
+                    "value": "10"
+                  },
+                  "team": {
+                    "value": "Фулхэм"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "15"
+                  },
+                  "draws": {
+                    "value": "7"
+                  },
+                  "losses": {
+                    "value": "16"
+                  },
+                  "goalDifference": {
+                    "value": "+2"
+                  },
+                  "points": {
+                    "value": "52"
+                  }
+                }
+              },
+              {
+                "rank": 11,
+                "cells": {
+                  "position": {
+                    "value": "11"
+                  },
+                  "team": {
+                    "value": "Кристал Пэлас"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "11"
+                  },
+                  "draws": {
+                    "value": "12"
+                  },
+                  "losses": {
+                    "value": "15"
+                  },
+                  "goalDifference": {
+                    "value": "-9"
+                  },
+                  "points": {
+                    "value": "45"
+                  }
+                }
+              },
+              {
+                "rank": 12,
+                "cells": {
+                  "position": {
+                    "value": "12"
+                  },
+                  "team": {
+                    "value": "Челси"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "11"
+                  },
+                  "draws": {
+                    "value": "11"
+                  },
+                  "losses": {
+                    "value": "16"
+                  },
+                  "goalDifference": {
+                    "value": "-9"
+                  },
+                  "points": {
+                    "value": "44"
+                  }
+                }
+              },
+              {
+                "rank": 13,
+                "cells": {
+                  "position": {
+                    "value": "13"
+                  },
+                  "team": {
+                    "value": "Вулверхэмптон"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "11"
+                  },
+                  "draws": {
+                    "value": "8"
+                  },
+                  "losses": {
+                    "value": "19"
+                  },
+                  "goalDifference": {
+                    "value": "-27"
+                  },
+                  "points": {
+                    "value": "41"
+                  }
+                }
+              },
+              {
+                "rank": 14,
+                "cells": {
+                  "position": {
+                    "value": "14"
+                  },
+                  "team": {
+                    "value": "Вест Хэм Юнайтед"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "11"
+                  },
+                  "draws": {
+                    "value": "7"
+                  },
+                  "losses": {
+                    "value": "20"
+                  },
+                  "goalDifference": {
+                    "value": "-13"
+                  },
+                  "points": {
+                    "value": "40"
+                  }
+                }
+              },
+              {
+                "rank": 15,
+                "cells": {
+                  "position": {
+                    "value": "15"
+                  },
+                  "team": {
+                    "value": "Борнмут"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "11"
+                  },
+                  "draws": {
+                    "value": "6"
+                  },
+                  "losses": {
+                    "value": "21"
+                  },
+                  "goalDifference": {
+                    "value": "-34"
+                  },
+                  "points": {
+                    "value": "39"
+                  }
+                }
+              }
+            ],
+            "compact": false,
+            "maxWrongOptions": 3
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "2022/2023",
+              "slug": "",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "2010/2011",
+              "slug": "",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "2016/2017",
+              "slug": "",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "2002/2003",
+              "slug": "",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_5",
+              "text": "2025/2026",
+              "slug": "",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_6",
+              "text": "2013/2014",
+              "slug": "",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_7",
+              "text": "2006/2007",
+              "slug": "",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_chelsea_247"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_liverpool_64",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какой вратарь Ливерпуля стал героем серии пенальти в финале Лиги чемпионов 2005 года?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Ежи Дудек",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Скотт Карсон",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Крис Киркланд",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Сандер Вестерфельд",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Пепе Рейна",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Диего Кавальери",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Поль Джонс",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Дудек отразил два удара в серии, включая решающий пенальти Андрея Шевченко.",
+          "difficulty": "normal",
+          "sourceQuestionId": "club_liverpool_64"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_chelsea_237",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {
+            "maxWrongOptions": 3
+          },
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "chelsea_danny-welbeck",
+            "dialogSlug": "chelsea_danny-welbeck",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "Дэнни Уэлбек",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "Йоррел Хато",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "Джейми Гиттенс",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "Ромео Лавиа",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "text": "Олутайо Субулойе",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Джош Ачимпонг",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Уэсли Фофана",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "difficulty": "normal",
+          "playerInfo": {
+            "age": 35,
+            "nationality": "Англия",
+            "countryCode": "GB",
+            "position": "Нападающий"
+          },
+          "sourceQuestionId": "club_chelsea_237"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_liverpool_207",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {
+            "maxWrongOptions": 3
+          },
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "liverpool_joe-gomez",
+            "dialogSlug": "liverpool_joe-gomez",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "Джо Гомес",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "Александер Исак",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "Трей Найони",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "Алексис Макаллистер",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "text": "Флориан Вирц",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Доминик Собослаи",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Конор Бредли",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "difficulty": "normal",
+          "playerInfo": {
+            "age": 29,
+            "nationality": "Англия",
+            "countryCode": "GB",
+            "position": "Защитник"
+          },
+          "sourceQuestionId": "club_liverpool_207"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_chelsea_173",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какой клуб Энцо Мареска тренировал непосредственно перед Челси?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Лестер",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Парму",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Саутгемптон",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Брайтон",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Лидс",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Фулхэм",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Вест Бромвич",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Мареска вернул Лестер в Премьер-лигу перед переходом в Челси.",
+          "difficulty": "normal",
+          "sourceQuestionId": "club_chelsea_173"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_liverpool_186",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Чей решающий пенальти отразил Ежи Дудек в серии финала Лиги чемпионов 2005 года?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Андрея Шевченко",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Кака",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Андреа Пирло",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Эрнан Креспо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Сержиньо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Йон-Даль Томассон",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Кларенс Зеедорф",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Сейв после удара Шевченко сделал Ливерпуль победителем финала в Стамбуле.",
+          "difficulty": "easy",
+          "sourceQuestionId": "club_liverpool_186"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_chelsea_223",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {
+            "maxWrongOptions": 3
+          },
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "chelsea_aaron-anselmino",
+            "dialogSlug": "chelsea_aaron-anselmino",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "Аарон Ансельмино",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "Марко Палестра",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "Валентин Барко",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "Тедди Шарман-Лоу",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "text": "Коул Палмер",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Пеп Чаваррия",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Махди Николл-Джазули",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "difficulty": "hard",
+          "playerInfo": {
+            "age": 21,
+            "nationality": "Аргентина",
+            "countryCode": "AR",
+            "position": "Защитник"
+          },
+          "sourceQuestionId": "club_chelsea_223"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_liverpool_211",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {
+            "maxWrongOptions": 3
+          },
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "liverpool_conor-bradley",
+            "dialogSlug": "liverpool_conor-bradley",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "Конор Бредли",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "Ватару Эндо",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "Джеймс Макконнелл",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "Доминик Собослаи",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "text": "Милош Керкез",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Джованни Леони",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Флориан Вирц",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "difficulty": "normal",
+          "playerInfo": {
+            "age": 23,
+            "nationality": "Северная Ирландия",
+            "countryCode": "GB",
+            "position": "Защитник"
+          },
+          "sourceQuestionId": "club_liverpool_211"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_chelsea_62",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто забил победный гол Арсеналу на Хайбери, выведя Челси в полуфинал Лиги чемпионов 2004 года?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Уэйн Бридж",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Фрэнк Лэмпард",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Дидье Дрогба",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Джо Коул",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Джимми Флойд Хассельбайнк",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Эйдур Гудьонсен",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Дэмьен Дафф",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Бридж забил на 87-й минуте ответного четвертьфинала.",
+          "difficulty": "hard",
+          "sourceQuestionId": "club_chelsea_62"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_liverpool_21",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какой скандал 1915 года привёл к дисквалификациям игроков Ливерпуля и Манчестер Юнайтед?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Договорной матч",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Подделка контрактов",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Незаконные выплаты игрокам",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Драка после матча",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Нарушение лимита зарплат",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Подкуп судьи",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Использование незаявленного игрока",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Несколько игроков двух клубов были признаны виновными в организации договорного матча, закончившегося победой Манчестер Юнайтед 2:0.",
+          "difficulty": "hard",
+          "sourceQuestionId": "club_liverpool_21"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_chelsea_232",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {
+            "maxWrongOptions": 3
+          },
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "chelsea_pedro-neto",
+            "dialogSlug": "chelsea_pedro-neto",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "Педру Нету",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "Максанс Лакруа",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "Габриэл",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "Жуан Педро",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "text": "Морган Роджерс",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Коул Палмер",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Пеп Чаваррия",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "difficulty": "normal",
+          "playerInfo": {
+            "age": 26,
+            "nationality": "Португалия",
+            "countryCode": "PT",
+            "position": "Нападающий"
+          },
+          "sourceQuestionId": "club_chelsea_232"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_liverpool_208",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {
+            "maxWrongOptions": 3
+          },
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "liverpool_virgil-van-dijk",
+            "dialogSlug": "liverpool_virgil-van-dijk",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "Вирджил ван Дейк",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "Виктор Муньос",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "Фредди Вудмен",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "Рио Нгумоха",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "text": "Федерико Кьеза",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Доминик Собослаи",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Харви Дэвис",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "difficulty": "easy",
+          "playerInfo": {
+            "age": 35,
+            "nationality": "Нидерланды",
+            "countryCode": "NL",
+            "position": "Защитник"
+          },
+          "sourceQuestionId": "club_liverpool_208"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_chelsea_125",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кого Челси победил в финале Лиги Европы 2013 года?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Бенфику",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Порту",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Аякс",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Севилью",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Валенсию",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Фенербахче",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Базель",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Финал в Амстердаме закончился победой Челси 2:1.",
+          "difficulty": "easy",
+          "sourceQuestionId": "club_chelsea_125"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_liverpool_28",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называлась тренерская комната на Энфилде, ставшая символом преемственности штаба Ливерпуля?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Boot Room",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Red Room",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Kop Room",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Managers’ Room",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Anfield Room",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Trophy Room",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Coaches’ Room",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Boot Room выросла из обычного помещения для хранения бутс и стала местом футбольных обсуждений тренерского штаба.",
+          "difficulty": "normal",
+          "sourceQuestionId": "club_liverpool_28"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_chelsea_240",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {
+            "maxWrongOptions": 3
+          },
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "chelsea_estevao",
+            "dialogSlug": "chelsea_estevao",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "Эстевао",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "Джош Ачимпонг",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "Уэсли Фофана",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "Джейми Гиттенс",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "text": "Йоррел Хато",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Махди Николл-Джазули",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Олутайо Субулойе",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "difficulty": "normal",
+          "playerInfo": {
+            "age": 19,
+            "nationality": "Бразилия",
+            "countryCode": "BR",
+            "position": "Нападающий"
+          },
+          "sourceQuestionId": "club_chelsea_240"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_liverpool_216",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {
+            "maxWrongOptions": 3
+          },
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "liverpool_wataru-endo",
+            "dialogSlug": "liverpool_wataru-endo",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "Ватару Эндо",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "Конор Бредли",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "Джеймс Макконнелл",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "Джованни Леони",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "text": "Флориан Вирц",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Доминик Собослаи",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Милош Керкез",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "difficulty": "normal",
+          "playerInfo": {
+            "age": 33,
+            "nationality": "Япония",
+            "countryCode": "JP",
+            "position": "Полузащитник"
+          },
+          "sourceQuestionId": "club_liverpool_216"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_chelsea_156",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какой вратарь Челси специально вышел на серию пенальти в Суперкубке УЕФА 2021 года?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Кепа Аррисабалага",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Эдуар Менди",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Маркус Беттинелли",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Вилли Кабальеро",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Петр Чех",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Джамал Блэкман",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Карло Кудичини",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Томас Тухель выпустил Кепу незадолго до конца дополнительного времени.",
+          "difficulty": "normal",
+          "sourceQuestionId": "club_chelsea_156"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_liverpool_71",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какой немецкий клуб Юрген Клопп тренировал непосредственно перед Ливерпулем?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Боруссия Дортмунд",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Бавария",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Шальке 04",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Байер Леверкузен",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "РБ Лейпциг",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Айнтрахт Франкфурт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Гамбург",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Перед Ливерпулем Клопп семь лет работал в Боруссии Дортмунд и дважды выигрывал Бундеслигу.",
+          "difficulty": "normal",
+          "sourceQuestionId": "club_liverpool_71"
+        },
+        {
+          "id": "mt_liverpool_chelsea__club_chelsea_224",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {
+            "maxWrongOptions": 3
+          },
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "chelsea_josh-acheampong",
+            "dialogSlug": "chelsea_josh-acheampong",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "Джош Ачимпонг",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "Эстевао",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "Уэсли Фофана",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "Джейми Гиттенс",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "text": "Йоррел Хато",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Махди Николл-Джазули",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Олутайо Субулойе",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "difficulty": "normal",
+          "playerInfo": {
+            "age": 20,
+            "nationality": "Англия",
+            "countryCode": "GB",
+            "position": "Защитник"
+          },
+          "sourceQuestionId": "club_chelsea_224"
+        }
+      ]
+    }
+  ]
+}

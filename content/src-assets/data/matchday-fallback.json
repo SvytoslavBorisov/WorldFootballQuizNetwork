@@ -15,6 +15,17 @@
         "ru": "Команды провели между собой 201 матч во всех турнирах. Ливерпуль имеет небольшое преимущество: 111 побед против 90 у Челси.",
         "en": "Команды провели между собой 201 матч во всех турнирах. Ливерпуль имеет небольшое преимущество: 111 побед против 90 у Челси."
       },
+      "fixture": {
+        "competition": "efl_cup",
+        "round": "4 раунд",
+        "roundEn": "Round 4",
+        "kickoff": "2026-10-28T20:00:00.000Z",
+        "clubIds": [
+          "club_liverpool",
+          "club_chelsea"
+        ],
+        "sourceUrl": "https://soccer365.ru/live/match-chelsi-liverpul-smotret-onlayn/"
+      },
       "items": [
         {
           "id": "mt_liverpool_chelsea__club_liverpool_15",

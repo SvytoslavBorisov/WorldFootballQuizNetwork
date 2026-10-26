@@ -1,0 +1,2682 @@
+{
+  "id": "matchday",
+  "title": {
+    "ru": "Битва Недели",
+    "en": "Main Event"
+  },
+  "titleRu": "Битва Недели",
+  "packs": [
+    {
+      "id": "mt_barcelona_realmadrid",
+      "title": {
+        "ru": "Барселона — Реал Мадрид",
+        "en": "Barcelona — Real Madrid"
+      },
+      "titleRu": "Барселона — Реал Мадрид",
+      "fixture": {
+        "kickoff": "2026-10-25T20:00:00.000Z",
+        "competition": "la_liga",
+        "round": "10",
+        "clubIds": [
+          "club_barcelona",
+          "club_realmadrid"
+        ]
+      },
+      "items": [
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_199",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {
+            "maxWrongOptions": 3
+          },
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "barcelona_sergio-busquets",
+            "dialogSlug": "barcelona_sergio-busquets",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "Серхио Бускетс",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "Joan García",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "Wojciech Szczesny",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "Dominik Livakovic",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_barcelona_199"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_75",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "realmadrid_rodrygo-goes",
+            "dialogSlug": "realmadrid_rodrygo-goes",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Родриго",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Винисиус Жуниор",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Килиан Мбаппе",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Эдер Милитао",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Эндрик",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Франко Мастантуоно",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Дензел Думфрис",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "playerInfo": {
+            "age": 25,
+            "nationality": "Бразилия",
+            "countryCode": "BR",
+            "position": "Нападающий"
+          },
+          "sourceQuestionId": "club_realmadrid_75"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_91",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто забил больше за Барселону – Луис Энрике или Неймар?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Луис Энрике",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Неймар",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Поровну",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            }
+          ],
+          "comment": "Луис Энрике забил 109 голов, Неймар – 105.",
+          "sourceQuestionId": "club_barcelona_91"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_209",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какая из этих компаний никогда не была титульным спонсором на футболках Мадрида?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Spotify",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Emirates",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Teka",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Bwin",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Siemens",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Parmalat",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Zanussi",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Spotify рекламируется на футболках Барселоны, а Мадрид в разные годы сотрудничал со всеми шестью остальными брендами.",
+          "sourceQuestionId": "club_realmadrid_209"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_189",
+          "type": 307,
+          "kind": "season_table",
+          "questionText": "Какой это сезон?",
+          "difficulty": "hard",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "payload": {
+            "source": "standings",
+            "title": "Ла Лига",
+            "maxWrongOptions": 3,
+            "compact": true,
+            "columns": [
+              {
+                "key": "position",
+                "label": "М",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "team",
+                "label": "Команда",
+                "width": 2.8,
+                "align": "left"
+              },
+              {
+                "key": "played",
+                "label": "И",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "wins",
+                "label": "В",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "draws",
+                "label": "Н",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "losses",
+                "label": "П",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "goalDifference",
+                "label": "РМ",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "points",
+                "label": "О",
+                "width": 0.65,
+                "align": "center"
+              }
+            ],
+            "rows": [
+              {
+                "rank": 1,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "1"
+                  },
+                  "team": {
+                    "value": "Валенсия"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "23"
+                  },
+                  "draws": {
+                    "value": "8"
+                  },
+                  "losses": {
+                    "value": "7"
+                  },
+                  "goalDifference": {
+                    "value": "+44"
+                  },
+                  "points": {
+                    "value": "77"
+                  }
+                }
+              },
+              {
+                "rank": 2,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "2"
+                  },
+                  "team": {
+                    "value": "Барселона"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "21"
+                  },
+                  "draws": {
+                    "value": "9"
+                  },
+                  "losses": {
+                    "value": "8"
+                  },
+                  "goalDifference": {
+                    "value": "+24"
+                  },
+                  "points": {
+                    "value": "72"
+                  }
+                }
+              },
+              {
+                "rank": 3,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "3"
+                  },
+                  "team": {
+                    "value": "Депортиво"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "21"
+                  },
+                  "draws": {
+                    "value": "8"
+                  },
+                  "losses": {
+                    "value": "9"
+                  },
+                  "goalDifference": {
+                    "value": "+26"
+                  },
+                  "points": {
+                    "value": "71"
+                  }
+                }
+              },
+              {
+                "rank": 4,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "4"
+                  },
+                  "team": {
+                    "value": "Реал Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "21"
+                  },
+                  "draws": {
+                    "value": "7"
+                  },
+                  "losses": {
+                    "value": "10"
+                  },
+                  "goalDifference": {
+                    "value": "+18"
+                  },
+                  "points": {
+                    "value": "70"
+                  }
+                }
+              },
+              {
+                "rank": 5,
+                "europeanCompetition": "uefa_cup",
+                "cells": {
+                  "position": {
+                    "value": "5"
+                  },
+                  "team": {
+                    "value": "Атлетик Бильбао"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "15"
+                  },
+                  "draws": {
+                    "value": "11"
+                  },
+                  "losses": {
+                    "value": "12"
+                  },
+                  "goalDifference": {
+                    "value": "+4"
+                  },
+                  "points": {
+                    "value": "56"
+                  }
+                }
+              },
+              {
+                "rank": 6,
+                "europeanCompetition": "uefa_cup",
+                "cells": {
+                  "position": {
+                    "value": "6"
+                  },
+                  "team": {
+                    "value": "Севилья"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "15"
+                  },
+                  "draws": {
+                    "value": "10"
+                  },
+                  "losses": {
+                    "value": "13"
+                  },
+                  "goalDifference": {
+                    "value": "+11"
+                  },
+                  "points": {
+                    "value": "55"
+                  }
+                }
+              }
+            ]
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "2003/2004",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "2000/2001",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "2001/2002",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "2002/2003",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_5",
+              "text": "2004/2005",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_6",
+              "text": "2005/2006",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_7",
+              "text": "2006/2007",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_barcelona_189"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_197",
+          "type": 307,
+          "kind": "season_table",
+          "questionText": "Какой это сезон?",
+          "difficulty": "easy",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "payload": {
+            "source": "standings",
+            "title": "Ла Лига",
+            "maxWrongOptions": 3,
+            "compact": true,
+            "columns": [
+              {
+                "key": "position",
+                "label": "М",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "team",
+                "label": "Команда",
+                "width": 2.8,
+                "align": "left"
+              },
+              {
+                "key": "played",
+                "label": "И",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "wins",
+                "label": "В",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "draws",
+                "label": "Н",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "losses",
+                "label": "П",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "goalDifference",
+                "label": "РМ",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "points",
+                "label": "О",
+                "width": 0.65,
+                "align": "center"
+              }
+            ],
+            "rows": [
+              {
+                "rank": 1,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "1"
+                  },
+                  "team": {
+                    "value": "Реал Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "32"
+                  },
+                  "draws": {
+                    "value": "4"
+                  },
+                  "losses": {
+                    "value": "2"
+                  },
+                  "goalDifference": {
+                    "value": "+89"
+                  },
+                  "points": {
+                    "value": "100"
+                  }
+                }
+              },
+              {
+                "rank": 2,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "2"
+                  },
+                  "team": {
+                    "value": "Барселона"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "28"
+                  },
+                  "draws": {
+                    "value": "7"
+                  },
+                  "losses": {
+                    "value": "3"
+                  },
+                  "goalDifference": {
+                    "value": "+85"
+                  },
+                  "points": {
+                    "value": "91"
+                  }
+                }
+              },
+              {
+                "rank": 3,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "3"
+                  },
+                  "team": {
+                    "value": "Валенсия"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "17"
+                  },
+                  "draws": {
+                    "value": "10"
+                  },
+                  "losses": {
+                    "value": "11"
+                  },
+                  "goalDifference": {
+                    "value": "+15"
+                  },
+                  "points": {
+                    "value": "61"
+                  }
+                }
+              },
+              {
+                "rank": 4,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "4"
+                  },
+                  "team": {
+                    "value": "Малага"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "17"
+                  },
+                  "draws": {
+                    "value": "7"
+                  },
+                  "losses": {
+                    "value": "14"
+                  },
+                  "goalDifference": {
+                    "value": "+1"
+                  },
+                  "points": {
+                    "value": "58"
+                  }
+                }
+              },
+              {
+                "rank": 5,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "5"
+                  },
+                  "team": {
+                    "value": "Атлетико Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "15"
+                  },
+                  "draws": {
+                    "value": "11"
+                  },
+                  "losses": {
+                    "value": "12"
+                  },
+                  "goalDifference": {
+                    "value": "+7"
+                  },
+                  "points": {
+                    "value": "56"
+                  }
+                }
+              },
+              {
+                "rank": 6,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "6"
+                  },
+                  "team": {
+                    "value": "Леванте"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "16"
+                  },
+                  "draws": {
+                    "value": "7"
+                  },
+                  "losses": {
+                    "value": "15"
+                  },
+                  "goalDifference": {
+                    "value": "+4"
+                  },
+                  "points": {
+                    "value": "55"
+                  }
+                }
+              }
+            ]
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "2011/2012",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "2008/2009",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "2009/2010",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "2010/2011",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_5",
+              "text": "2012/2013",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_6",
+              "text": "2013/2014",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_7",
+              "text": "2014/2015",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_realmadrid_197"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_180",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "barcelona_hamza-mohamed-abdelkarim-elsayed-selim",
+            "dialogSlug": "barcelona_hamza-mohamed-abdelkarim-elsayed-selim",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Хамза Абделькарим",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Хави Эспарт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Марк Берналь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Пау Кубарси",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Фермин Лопес",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Педри",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Родри",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "playerInfo": {
+            "age": 18,
+            "nationality": "Египет",
+            "countryCode": "EG",
+            "position": "Нападающий"
+          },
+          "sourceQuestionId": "club_barcelona_180"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_80",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "realmadrid_yan-diomande",
+            "dialogSlug": "realmadrid_yan-diomande",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Ян Диоманде",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Винисиус Жуниор",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ферлан Менди",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Ибраима Конате",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Дензел Думфрис",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Орельен Тчуамени",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Эндрик",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "playerInfo": {
+            "age": 19,
+            "nationality": "Кот-д’Ивуар",
+            "countryCode": "CI",
+            "position": "Нападающий"
+          },
+          "sourceQuestionId": "club_realmadrid_80"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_51",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Из какого клуба Барселона купила Френки де Йонга?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Аякс",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "ПСВ",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Фейеноорд",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Бенфика",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            }
+          ],
+          "comment": "Трансфер де Йонга оценивался в 75 млн евро.",
+          "sourceQuestionId": "club_barcelona_51"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_272",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто открыл счёт в финале Лиги чемпионов 2000 года?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Фернандо Морьентес",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Рауль",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Стив Макманаман",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Николя Анелька",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Роберто Карлос",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Фернандо Редондо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Савио",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Морьентес забил Валенсии на 38-й минуте.",
+          "sourceQuestionId": "club_realmadrid_272"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_187",
+          "type": 307,
+          "kind": "season_table",
+          "questionText": "Какой это сезон?",
+          "difficulty": "hard",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "payload": {
+            "source": "standings",
+            "title": "Ла Лига",
+            "maxWrongOptions": 3,
+            "compact": true,
+            "columns": [
+              {
+                "key": "position",
+                "label": "М",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "team",
+                "label": "Команда",
+                "width": 2.8,
+                "align": "left"
+              },
+              {
+                "key": "played",
+                "label": "И",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "wins",
+                "label": "В",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "draws",
+                "label": "Н",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "losses",
+                "label": "П",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "goalDifference",
+                "label": "РМ",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "points",
+                "label": "О",
+                "width": 0.65,
+                "align": "center"
+              }
+            ],
+            "rows": [
+              {
+                "rank": 1,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "1"
+                  },
+                  "team": {
+                    "value": "Барселона"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "31"
+                  },
+                  "draws": {
+                    "value": "6"
+                  },
+                  "losses": {
+                    "value": "1"
+                  },
+                  "goalDifference": {
+                    "value": "+74"
+                  },
+                  "points": {
+                    "value": "99"
+                  }
+                }
+              },
+              {
+                "rank": 2,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "2"
+                  },
+                  "team": {
+                    "value": "Реал Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "31"
+                  },
+                  "draws": {
+                    "value": "3"
+                  },
+                  "losses": {
+                    "value": "4"
+                  },
+                  "goalDifference": {
+                    "value": "+67"
+                  },
+                  "points": {
+                    "value": "96"
+                  }
+                }
+              },
+              {
+                "rank": 3,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "3"
+                  },
+                  "team": {
+                    "value": "Валенсия"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "21"
+                  },
+                  "draws": {
+                    "value": "8"
+                  },
+                  "losses": {
+                    "value": "9"
+                  },
+                  "goalDifference": {
+                    "value": "+19"
+                  },
+                  "points": {
+                    "value": "71"
+                  }
+                }
+              },
+              {
+                "rank": 4,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "4"
+                  },
+                  "team": {
+                    "value": "Севилья"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "19"
+                  },
+                  "draws": {
+                    "value": "6"
+                  },
+                  "losses": {
+                    "value": "13"
+                  },
+                  "goalDifference": {
+                    "value": "+16"
+                  },
+                  "points": {
+                    "value": "63"
+                  }
+                }
+              },
+              {
+                "rank": 5,
+                "cells": {
+                  "position": {
+                    "value": "5"
+                  },
+                  "team": {
+                    "value": "Мальорка"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "18"
+                  },
+                  "draws": {
+                    "value": "8"
+                  },
+                  "losses": {
+                    "value": "12"
+                  },
+                  "goalDifference": {
+                    "value": "+15"
+                  },
+                  "points": {
+                    "value": "62"
+                  }
+                }
+              },
+              {
+                "rank": 6,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "6"
+                  },
+                  "team": {
+                    "value": "Хетафе"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "17"
+                  },
+                  "draws": {
+                    "value": "7"
+                  },
+                  "losses": {
+                    "value": "14"
+                  },
+                  "goalDifference": {
+                    "value": "+10"
+                  },
+                  "points": {
+                    "value": "58"
+                  }
+                }
+              }
+            ]
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "2009/2010",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "2006/2007",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "2007/2008",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "2008/2009",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_5",
+              "text": "2010/2011",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_6",
+              "text": "2011/2012",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_7",
+              "text": "2012/2013",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_barcelona_187"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_201",
+          "type": 307,
+          "kind": "season_table",
+          "questionText": "Какой это сезон?",
+          "difficulty": "normal",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "payload": {
+            "source": "standings",
+            "title": "Ла Лига",
+            "maxWrongOptions": 3,
+            "compact": true,
+            "columns": [
+              {
+                "key": "position",
+                "label": "М",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "team",
+                "label": "Команда",
+                "width": 2.8,
+                "align": "left"
+              },
+              {
+                "key": "played",
+                "label": "И",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "wins",
+                "label": "В",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "draws",
+                "label": "Н",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "losses",
+                "label": "П",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "goalDifference",
+                "label": "РМ",
+                "width": 0.65,
+                "align": "center"
+              },
+              {
+                "key": "points",
+                "label": "О",
+                "width": 0.65,
+                "align": "center"
+              }
+            ],
+            "rows": [
+              {
+                "rank": 1,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "1"
+                  },
+                  "team": {
+                    "value": "Барселона"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "31"
+                  },
+                  "draws": {
+                    "value": "6"
+                  },
+                  "losses": {
+                    "value": "1"
+                  },
+                  "goalDifference": {
+                    "value": "+74"
+                  },
+                  "points": {
+                    "value": "99"
+                  }
+                }
+              },
+              {
+                "rank": 2,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "2"
+                  },
+                  "team": {
+                    "value": "Реал Мадрид"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "31"
+                  },
+                  "draws": {
+                    "value": "3"
+                  },
+                  "losses": {
+                    "value": "4"
+                  },
+                  "goalDifference": {
+                    "value": "+67"
+                  },
+                  "points": {
+                    "value": "96"
+                  }
+                }
+              },
+              {
+                "rank": 3,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "3"
+                  },
+                  "team": {
+                    "value": "Валенсия"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "21"
+                  },
+                  "draws": {
+                    "value": "8"
+                  },
+                  "losses": {
+                    "value": "9"
+                  },
+                  "goalDifference": {
+                    "value": "+19"
+                  },
+                  "points": {
+                    "value": "71"
+                  }
+                }
+              },
+              {
+                "rank": 4,
+                "europeanCompetition": "champions_league",
+                "cells": {
+                  "position": {
+                    "value": "4"
+                  },
+                  "team": {
+                    "value": "Севилья"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "19"
+                  },
+                  "draws": {
+                    "value": "6"
+                  },
+                  "losses": {
+                    "value": "13"
+                  },
+                  "goalDifference": {
+                    "value": "+16"
+                  },
+                  "points": {
+                    "value": "63"
+                  }
+                }
+              },
+              {
+                "rank": 5,
+                "cells": {
+                  "position": {
+                    "value": "5"
+                  },
+                  "team": {
+                    "value": "Мальорка"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "18"
+                  },
+                  "draws": {
+                    "value": "8"
+                  },
+                  "losses": {
+                    "value": "12"
+                  },
+                  "goalDifference": {
+                    "value": "+15"
+                  },
+                  "points": {
+                    "value": "62"
+                  }
+                }
+              },
+              {
+                "rank": 6,
+                "europeanCompetition": "europa_league",
+                "cells": {
+                  "position": {
+                    "value": "6"
+                  },
+                  "team": {
+                    "value": "Хетафе"
+                  },
+                  "played": {
+                    "value": "38"
+                  },
+                  "wins": {
+                    "value": "17"
+                  },
+                  "draws": {
+                    "value": "7"
+                  },
+                  "losses": {
+                    "value": "14"
+                  },
+                  "goalDifference": {
+                    "value": "+10"
+                  },
+                  "points": {
+                    "value": "58"
+                  }
+                }
+              }
+            ]
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "2009/2010",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "2006/2007",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "2007/2008",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "2008/2009",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_5",
+              "text": "2010/2011",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_6",
+              "text": "2011/2012",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_7",
+              "text": "2012/2013",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_realmadrid_201"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_196",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {
+            "maxWrongOptions": 3
+          },
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "barcelona_andres-iniesta",
+            "dialogSlug": "barcelona_andres-iniesta",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "Андрес Иньеста",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "Joan García",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "Wojciech Szczesny",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "Dominik Livakovic",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_barcelona_196"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_63",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "realmadrid_dean-huijsen",
+            "dialogSlug": "realmadrid_dean-huijsen",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Дин Хейсен",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Гонсало Гарсия",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Фран Гонсалес",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Франко Мастантуоно",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Аарон Гомес",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Дани Себальос",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Тьяго Питарч",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "playerInfo": {
+            "age": 21,
+            "nationality": "Испания",
+            "countryCode": "ES",
+            "position": "Защитник"
+          },
+          "sourceQuestionId": "club_realmadrid_63"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_113",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какое каталонское имя Кройф дал своему сыну?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Жорди",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Карлес",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Хосеп",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Жоан",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Пеп",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Микель",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Для болельщиков имя сына Кройфа стало ещё одним символом его связи с Каталонией.",
+          "sourceQuestionId": "club_barcelona_113"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_256",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто оформил хет-трик в матче с Барселоной в 1995 году?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Иван Саморано",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Рауль",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Фернандо Йерро",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Фернандо Редондо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Предраг Миятович",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Давор Шукер",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Роберто Карлос",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Саморано забил 3 гола в знаменитом Эль-Класико на Сантьяго Бернабеу.",
+          "sourceQuestionId": "club_realmadrid_256"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_166",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "barcelona_pablo-paez-gavira",
+            "dialogSlug": "barcelona_pablo-paez-gavira",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Гави",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Войцех Щенсны",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Жерар Мартин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Дани Ольмо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Энтони Гордон",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Френки де Йонг",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Пау Кубарси",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "playerInfo": {
+            "age": 22,
+            "nationality": "Испания",
+            "countryCode": "ES",
+            "position": "Полузащитник"
+          },
+          "sourceQuestionId": "club_barcelona_166"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_59",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "realmadrid_aurelien-tchouameni",
+            "dialogSlug": "realmadrid_aurelien-tchouameni",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Орельен Тчуамени",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Ибраима Конате",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Дензел Думфрис",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Эдер Милитао",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Ферлан Менди",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Рауль Асенсио",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Эдуардо Камавинга",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "playerInfo": {
+            "age": 26,
+            "nationality": "Франция",
+            "countryCode": "FR",
+            "position": "Полузащитник"
+          },
+          "sourceQuestionId": "club_realmadrid_59"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_78",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Какой защитник вернулся в Барселону из Манчестер Юнайтед в 2008 году?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Жерар Пике",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Дани Алвес",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Эрик Абидаль",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Хавьер Маскерано",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Рафаэль Маркес",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Жорди Альба",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            }
+          ],
+          "comment": "Пике стал одним из лидеров самого успешного поколения клуба.",
+          "sourceQuestionId": "club_barcelona_78"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_268",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто выиграл Золотой мяч 2022 года, выступая за Реал Мадрид?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Карим Бензема",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Винисиус Жуниор",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Родриго",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Джуд Беллингем",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Килиан Мбаппе",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Федерико Вальверде",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Тибо Куртуа",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Бензема получил награду после сезона с победами в Ла Лиге и Лиге чемпионов.",
+          "sourceQuestionId": "club_realmadrid_268"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_167",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "barcelona_fermin-lopez",
+            "dialogSlug": "barcelona_fermin-lopez",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Фермин Лопес",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Хави Эспарт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Пау Кубарси",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Марк Берналь",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Доминик Ливакович",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Дани Ольмо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Френки де Йонг",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "playerInfo": {
+            "age": 23,
+            "nationality": "Испания",
+            "countryCode": "ES",
+            "position": "Полузащитник"
+          },
+          "sourceQuestionId": "club_barcelona_167"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_61",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "realmadrid_brahim-diaz",
+            "dialogSlug": "realmadrid_brahim-diaz",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Браим Диас",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Тьяго Питарч",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Бернарду Силва",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Марк Кукурелья",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Трент Александер-Арнолд",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Ян Диоманде",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Дани Себальос",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "playerInfo": {
+            "age": 27,
+            "nationality": "Марокко",
+            "countryCode": "MA",
+            "position": "Полузащитник"
+          },
+          "sourceQuestionId": "club_realmadrid_61"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_6",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто стал главной звездой Барселоны после перехода из Аякса в 1970-х?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Йохан Кройф",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Мигели",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Андони Субисаррета",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Филипп Коку",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Роналд Куман",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Патрик Клюйверт",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Франк де Бур",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Кройф стал символом Барселоны как игрок, а позже оказал ещё большее влияние как тренер.",
+          "sourceQuestionId": "club_barcelona_6"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_140",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "У какого фонтана в Мадриде футболисты Мадрида традиционно празднуют крупные трофеи?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Фонтан Сибелес",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Фонтан Нептуна",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Фонтан Треви",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Фонтан Дианы",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Фонтан Каналетас",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Фонтан Аполлона",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Фонтан Солнца",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Празднования Мадрида проходят на площади Сибелес; Атлетико традиционно празднует у фонтана Нептуна.",
+          "sourceQuestionId": "club_realmadrid_140"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_193",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "difficulty": "easy",
+          "questionText": "Кто этот тренер?",
+          "media": {
+            "questionSlug": "coach_barcelona_hansi-flick",
+            "dialogSlug": "coach_barcelona_hansi-flick",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "ans_1",
+              "text": "Ханс-Дитер Флик",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "ans_2",
+              "text": "Венсан Компани",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_3",
+              "text": "Майкл Каррик",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_4",
+              "text": "Энцо Мареска",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_5",
+              "text": "Андони Ираола",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_6",
+              "text": "Сеск Фабрегас",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "ans_7",
+              "text": "Бруно Женезио",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "sourceQuestionId": "club_barcelona_193"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_60",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "realmadrid_bernardo-silva",
+            "dialogSlug": "realmadrid_bernardo-silva",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Бернарду Силва",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Браим Диас",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Эндрик",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Марк Кукурелья",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Трент Александер-Арнолд",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Ян Диоманде",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Дани Себальос",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "playerInfo": {
+            "age": 32,
+            "nationality": "Португалия",
+            "countryCode": "PT",
+            "position": "Полузащитник"
+          },
+          "sourceQuestionId": "club_realmadrid_60"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_2",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Как называют болельщиков Барселоны?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Кулес",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Меренгес",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Колчонерос",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Леонес",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Чес",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Палангнас",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Индалос",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "Прозвище кулес связано со зрителями старого стадиона, которых прохожие видели со стороны улицы.",
+          "sourceQuestionId": "club_barcelona_2"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_182",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто забил решающий пенальти Мадрида в четвертьфинале ЛЧ 2024 года против Манчестер Сити?",
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Антонио Рюдигер",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Лука Модрич",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Джуд Беллингем",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Винисиус Жуниор",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Дани Карвахаль",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Федерико Вальверде",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Начо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "comment": "После двух сейвов Лунина Рюдигер реализовал последний пенальти Мадрида в серии против Сити.",
+          "sourceQuestionId": "club_realmadrid_182"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_barcelona_161",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "barcelona_andreas-christensen",
+            "dialogSlug": "barcelona_andreas-christensen",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Андреас Кристенсен",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Доминик Ливакович",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Жерар Мартин",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Френки де Йонг",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Дани Ольмо",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Энтони Гордон",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Жоау Канселу",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "playerInfo": {
+            "age": 30,
+            "nationality": "Дания",
+            "countryCode": "DK",
+            "position": "Защитник"
+          },
+          "sourceQuestionId": "club_barcelona_161"
+        },
+        {
+          "id": "mt_barcelona_realmadrid__club_realmadrid_79",
+          "type": 1,
+          "kind": "multi_choice",
+          "payload": {},
+          "questionText": "Кто этот футболист?",
+          "media": {
+            "questionSlug": "realmadrid_vinicius-paixao-de-oliveira-junior",
+            "dialogSlug": "realmadrid_vinicius-paixao-de-oliveira-junior",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "text": "Винисиус Жуниор",
+              "slug": "no_pic",
+              "isCorrect": true,
+              "id": "ans_1"
+            },
+            {
+              "text": "Ян Диоманде",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_2"
+            },
+            {
+              "text": "Ибраима Конате",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_3"
+            },
+            {
+              "text": "Эдуардо Камавинга",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_4"
+            },
+            {
+              "text": "Дензел Думфрис",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_5"
+            },
+            {
+              "text": "Орельен Тчуамени",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_6"
+            },
+            {
+              "text": "Эндрик",
+              "slug": "no_pic",
+              "isCorrect": false,
+              "id": "ans_7"
+            }
+          ],
+          "playerInfo": {
+            "age": 26,
+            "nationality": "Бразилия",
+            "countryCode": "BR",
+            "position": "Нападающий"
+          },
+          "sourceQuestionId": "club_realmadrid_79"
+        }
+      ]
+    }
+  ]
+}

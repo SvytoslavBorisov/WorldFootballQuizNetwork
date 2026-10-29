@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "file": "mt_liverpool_chelsea_eeb3822ca9a48c87.json",
-  "sha256": "eeb3822ca9a48c87c51cbd85939580e9908e35f0dbea19221320937973158c8e",
-  "bytes": 80927,
+  "file": "mt_liverpool_arsenal_3b223022d4bfd3ab.json",
+  "sha256": "3b223022d4bfd3ab06d3ac7dc8f4866f81918188d4d60d59cbf535b7b5d97085",
+  "bytes": 82182,
   "title": {
-    "ru": "Ливерпуль — Челси",
-    "en": "Liverpool — Chelsea"
+    "ru": "Ливерпуль – Арсенал",
+    "en": "Liverpool – Arsenal"
   },
   "homeClubId": "club_liverpool",
-  "awayClubId": "club_chelsea"
+  "awayClubId": "club_arsenal"
 }

@@ -1,0 +1,660 @@
+{
+  "id": "matchday",
+  "title": {
+    "ru": "Битва недели",
+    "en": "Main Event"
+  },
+  "packs": [
+    {
+      "id": "mt_liverpool_arsenal",
+      "title": {
+        "ru": "Ливерпуль – Арсенал",
+        "en": "Liverpool – Arsenal"
+      },
+      "summary": {
+        "ru": "Арсенал рвётся наверх, Ливерпуль готовит ответ на Энфилде",
+        "en": "Arsenal chase top spot, Liverpool prepare their response"
+      },
+      "fixture": {
+        "competition": "premier_league",
+        "round": "9 тур",
+        "roundEn": "Round 9",
+        "kickoff": "2026-11-01T16:30:00.000Z",
+        "clubIds": [
+          "club_liverpool",
+          "club_arsenal"
+        ],
+        "sourceUrl": "https://soccer365.ru/live/match-liverpul-arsenal-smotret-onlayn/"
+      },
+      "questionCount": 20,
+      "questionIds": [
+        "club_liverpool_82",
+        "club_arsenal_13",
+        "club_liverpool_157",
+        "club_arsenal_7",
+        "club_liverpool_178",
+        "club_arsenal_148",
+        "club_liverpool_208",
+        "club_arsenal_31",
+        "club_liverpool_186",
+        "club_arsenal_133",
+        "club_liverpool_144",
+        "club_arsenal_75",
+        "club_liverpool_7",
+        "club_arsenal_36",
+        "club_liverpool_168",
+        "club_arsenal_17",
+        "club_liverpool_53",
+        "club_arsenal_147",
+        "club_liverpool_217",
+        "club_arsenal_9",
+        "club_liverpool_176",
+        "club_arsenal_135",
+        "club_liverpool_100",
+        "club_arsenal_149",
+        "club_liverpool_166",
+        "club_arsenal_18",
+        "club_liverpool_63",
+        "club_arsenal_140",
+        "club_liverpool_65",
+        "club_arsenal_124"
+      ],
+      "customQuestions": [
+        {
+          "id": "club_liverpool_event_20261030_position",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Перед матчем с Арсеналом 1 ноября 2026 года Ливерпуль занимает место в зоне ЛЧ. Какое?",
+          "comment": "На 30 октября у Ливерпуля 15 очков после восьми матчей и четвёртое место.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_liverpool_event_20261030_position_a1",
+              "text": "Четвёртое",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_liverpool_event_20261030_position_a2",
+              "text": "Второе",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_liverpool_event_20261030_position_a3",
+              "text": "Третье",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_liverpool_event_20261030_position_a4",
+              "text": "Шестое",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_liverpool_event_20261030_position",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Перед матчем с Арсеналом 1 ноября 2026 года Ливерпуль занимает место в зоне ЛЧ. Какое?",
+              "comment": "На 30 октября у Ливерпуля 15 очков после восьми матчей и четвёртое место.",
+              "answers.0.text": "Четвёртое",
+              "answers.1.text": "Второе",
+              "answers.2.text": "Третье",
+              "answers.3.text": "Шестое"
+            },
+            "translation": {
+              "questionText": "Before facing Arsenal on 1 November 2026, Liverpool occupy a Champions League spot. Which position?",
+              "comment": "As of 30 October, Liverpool have 15 points from eight matches and sit fourth.",
+              "answers.0.text": "Fourth",
+              "answers.1.text": "Second",
+              "answers.2.text": "Third",
+              "answers.3.text": "Sixth"
+            }
+          }
+        },
+        {
+          "id": "club_arsenal_event_20261030_position",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "На каком месте Арсенал подходит к матчу с Ливерпулем 1 ноября 2026 года, имея столько же очков, сколько лидер?",
+          "comment": "На 30 октября Арсенал и Манчестер Сити набрали по 21 очку. Арсенал второй из-за худшей разницы мячей: +8 против +11.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_arsenal_event_20261030_position_a1",
+              "text": "На втором",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_arsenal_event_20261030_position_a2",
+              "text": "На первом",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_arsenal_event_20261030_position_a3",
+              "text": "На третьем",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_arsenal_event_20261030_position_a4",
+              "text": "На четвёртом",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_arsenal_event_20261030_position",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "На каком месте Арсенал подходит к матчу с Ливерпулем 1 ноября 2026 года, имея столько же очков, сколько лидер?",
+              "comment": "На 30 октября Арсенал и Манчестер Сити набрали по 21 очку. Арсенал второй из-за худшей разницы мячей: +8 против +11.",
+              "answers.0.text": "На втором",
+              "answers.1.text": "На первом",
+              "answers.2.text": "На третьем",
+              "answers.3.text": "На четвёртом"
+            },
+            "translation": {
+              "questionText": "Where do Arsenal sit before facing Liverpool on 1 November 2026, despite having as many points as the leaders?",
+              "comment": "As of 30 October, Arsenal and Manchester City have 21 points each. Arsenal are second on goal difference: +8 compared with +11.",
+              "answers.0.text": "Second",
+              "answers.1.text": "First",
+              "answers.2.text": "Third",
+              "answers.3.text": "Fourth"
+            }
+          }
+        },
+        {
+          "id": "club_liverpool_event_20261030_scorer",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Кто к 30 октября 2026 года забил больше половины всех голов Ливерпуля в текущем сезоне АПЛ?",
+          "comment": "У Исака шесть голов в АПЛ, у Ливерпуля в сумме одиннадцать. Швед забил больше половины.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_liverpool_event_20261030_scorer_a1",
+              "text": "Александер Исак",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_liverpool_event_20261030_scorer_a2",
+              "text": "Коди Гакпо",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_liverpool_event_20261030_scorer_a3",
+              "text": "Флориан Вирц",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_liverpool_event_20261030_scorer_a4",
+              "text": "Брэдли Барколя",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_liverpool_event_20261030_scorer",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Кто к 30 октября 2026 года забил больше половины всех голов Ливерпуля в текущем сезоне АПЛ?",
+              "comment": "У Исака шесть голов в АПЛ, у Ливерпуля в сумме одиннадцать. Швед забил больше половины.",
+              "answers.0.text": "Александер Исак",
+              "answers.1.text": "Коди Гакпо",
+              "answers.2.text": "Флориан Вирц",
+              "answers.3.text": "Брэдли Барколя"
+            },
+            "translation": {
+              "questionText": "Who has scored more than half of Liverpool’s Premier League goals this season as of 30 October 2026?",
+              "comment": "Isak has six Premier League goals and Liverpool have eleven in total. The Swede has scored more than half.",
+              "answers.0.text": "Alexander Isak",
+              "answers.1.text": "Cody Gakpo",
+              "answers.2.text": "Florian Wirtz",
+              "answers.3.text": "Bradley Barcola"
+            }
+          }
+        },
+        {
+          "id": "club_arsenal_event_20261030_scorer",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Кто возглавляет список бомбардиров Арсенала в АПЛ сезона 2026/27 на 30 октября?",
+          "comment": "Сака забил три мяча в АПЛ. У Хаверца, Эдегора и Гимарайнса по два.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_arsenal_event_20261030_scorer_a1",
+              "text": "Букайо Сака",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_arsenal_event_20261030_scorer_a2",
+              "text": "Кай Хаверц",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_arsenal_event_20261030_scorer_a3",
+              "text": "Мартин Эдегор",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_arsenal_event_20261030_scorer_a4",
+              "text": "Бруну Гимарайнс",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_arsenal_event_20261030_scorer",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Кто возглавляет список бомбардиров Арсенала в АПЛ сезона 2026/27 на 30 октября?",
+              "comment": "Сака забил три мяча в АПЛ. У Хаверца, Эдегора и Гимарайнса по два.",
+              "answers.0.text": "Букайо Сака",
+              "answers.1.text": "Кай Хаверц",
+              "answers.2.text": "Мартин Эдегор",
+              "answers.3.text": "Бруну Гимарайнс"
+            },
+            "translation": {
+              "questionText": "Who leads Arsenal’s Premier League scoring chart in 2026/27 as of 30 October?",
+              "comment": "Saka has three Premier League goals. Havertz, Ødegaard and Guimarães have two each.",
+              "answers.0.text": "Bukayo Saka",
+              "answers.1.text": "Kai Havertz",
+              "answers.2.text": "Martin Ødegaard",
+              "answers.3.text": "Bruno Guimarães"
+            }
+          }
+        },
+        {
+          "id": "club_liverpool_event_20261030_barcola",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Из какого клуба Ливерпуль летом 2026 года приобрёл Брэдли Барколя, усилив атакующие фланги?",
+          "comment": "Барколя перешёл из ПСЖ после трёх сезонов в парижском клубе. В Ливерпуле он получил номер 29.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_liverpool_event_20261030_barcola_a1",
+              "text": "ПСЖ",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_liverpool_event_20261030_barcola_a2",
+              "text": "Лион",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_liverpool_event_20261030_barcola_a3",
+              "text": "Монако",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_liverpool_event_20261030_barcola_a4",
+              "text": "Лилль",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_liverpool_event_20261030_barcola",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Из какого клуба Ливерпуль летом 2026 года приобрёл Брэдли Барколя, усилив атакующие фланги?",
+              "comment": "Барколя перешёл из ПСЖ после трёх сезонов в парижском клубе. В Ливерпуле он получил номер 29.",
+              "answers.0.text": "ПСЖ",
+              "answers.1.text": "Лион",
+              "answers.2.text": "Монако",
+              "answers.3.text": "Лилль"
+            },
+            "translation": {
+              "questionText": "From which club did Liverpool sign Bradley Barcola in summer 2026 to strengthen their wide attacking options?",
+              "comment": "Barcola arrived from PSG after three seasons in Paris. He took the No.29 shirt at Liverpool.",
+              "answers.0.text": "PSG",
+              "answers.1.text": "Lyon",
+              "answers.2.text": "Monaco",
+              "answers.3.text": "Lille"
+            }
+          }
+        },
+        {
+          "id": "club_liverpool_event_20261030_jacquet",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Из какого французского клуба летом 2026 года в Ливерпуль прибыл защитник Жереми Жаке?",
+          "comment": "Ливерпуль заранее согласовал переход Жаке из Ренна. Защитник присоединился к команде летом 2026 года.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_liverpool_event_20261030_jacquet_a1",
+              "text": "Ренн",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_liverpool_event_20261030_jacquet_a2",
+              "text": "Ланс",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_liverpool_event_20261030_jacquet_a3",
+              "text": "Марсель",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_liverpool_event_20261030_jacquet_a4",
+              "text": "Страсбур",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_liverpool_event_20261030_jacquet",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Из какого французского клуба летом 2026 года в Ливерпуль прибыл защитник Жереми Жаке?",
+              "comment": "Ливерпуль заранее согласовал переход Жаке из Ренна. Защитник присоединился к команде летом 2026 года.",
+              "answers.0.text": "Ренн",
+              "answers.1.text": "Ланс",
+              "answers.2.text": "Марсель",
+              "answers.3.text": "Страсбур"
+            },
+            "translation": {
+              "questionText": "Which French club did defender Jeremy Jacquet leave to join Liverpool in summer 2026?",
+              "comment": "Liverpool agreed Jacquet’s transfer from Rennes in advance. The defender joined the squad in summer 2026.",
+              "answers.0.text": "Rennes",
+              "answers.1.text": "Lens",
+              "answers.2.text": "Marseille",
+              "answers.3.text": "Strasbourg"
+            }
+          }
+        },
+        {
+          "id": "club_arsenal_event_20261030_guimaraes",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Какой бразильский полузащитник перешёл из Ньюкасла в Арсенал летом 2026 года?",
+          "comment": "Арсенал усилил центр поля Бруну Гимарайнсом из Ньюкасла в августе 2026 года.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_arsenal_event_20261030_guimaraes_a1",
+              "text": "Бруну Гимарайнс",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_arsenal_event_20261030_guimaraes_a2",
+              "text": "Жоэлинтон",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_arsenal_event_20261030_guimaraes_a3",
+              "text": "Лукас Пакета",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_arsenal_event_20261030_guimaraes_a4",
+              "text": "Андре",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_arsenal_event_20261030_guimaraes",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Какой бразильский полузащитник перешёл из Ньюкасла в Арсенал летом 2026 года?",
+              "comment": "Арсенал усилил центр поля Бруну Гимарайнсом из Ньюкасла в августе 2026 года.",
+              "answers.0.text": "Бруну Гимарайнс",
+              "answers.1.text": "Жоэлинтон",
+              "answers.2.text": "Лукас Пакета",
+              "answers.3.text": "Андре"
+            },
+            "translation": {
+              "questionText": "Which Brazilian midfielder moved from Newcastle to Arsenal in summer 2026?",
+              "comment": "Arsenal strengthened their midfield by signing Bruno Guimarães from Newcastle in August 2026.",
+              "answers.0.text": "Bruno Guimarães",
+              "answers.1.text": "Joelinton",
+              "answers.2.text": "Lucas Paquetá",
+              "answers.3.text": "André"
+            }
+          }
+        },
+        {
+          "id": "club_arsenal_event_20261030_konsa",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Кого Арсенал приобрёл у Астон Виллы летом 2026 года, усилив центр обороны на фоне травмы Салиба?",
+          "comment": "Эзри Конса перешёл из Астон Виллы. Его приход помог Арсеналу закрыть потерю Уильяма Салиба.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_arsenal_event_20261030_konsa_a1",
+              "text": "Эзри Конса",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_arsenal_event_20261030_konsa_a2",
+              "text": "Пау Торрес",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_arsenal_event_20261030_konsa_a3",
+              "text": "Тайрон Мингс",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_arsenal_event_20261030_konsa_a4",
+              "text": "Диего Карлос",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_arsenal_event_20261030_konsa",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Кого Арсенал приобрёл у Астон Виллы летом 2026 года, усилив центр обороны на фоне травмы Салиба?",
+              "comment": "Эзри Конса перешёл из Астон Виллы. Его приход помог Арсеналу закрыть потерю Уильяма Салиба.",
+              "answers.0.text": "Эзри Конса",
+              "answers.1.text": "Пау Торрес",
+              "answers.2.text": "Тайрон Мингс",
+              "answers.3.text": "Диего Карлос"
+            },
+            "translation": {
+              "questionText": "Who did Arsenal sign from Aston Villa in summer 2026 to strengthen central defence amid Saliba’s injury?",
+              "comment": "Ezri Konsa arrived from Aston Villa. His signing helped Arsenal cover for William Saliba’s absence.",
+              "answers.0.text": "Ezri Konsa",
+              "answers.1.text": "Pau Torres",
+              "answers.2.text": "Tyrone Mings",
+              "answers.3.text": "Diego Carlos"
+            }
+          }
+        },
+        {
+          "id": "club_liverpool_event_20261030_coach",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Кто сменил Арне Слота во главе Ливерпуля перед сезоном 2026/27?",
+          "comment": "Летом 2026 года Ливерпуль возглавил Андони Ираола, до этого три сезона работавший с Борнмутом.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_liverpool_event_20261030_coach_a1",
+              "text": "Андони Ираола",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_liverpool_event_20261030_coach_a2",
+              "text": "Хаби Алонсо",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_liverpool_event_20261030_coach_a3",
+              "text": "Оливер Гласнер",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_liverpool_event_20261030_coach_a4",
+              "text": "Марко Силва",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_liverpool_event_20261030_coach",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Кто сменил Арне Слота во главе Ливерпуля перед сезоном 2026/27?",
+              "comment": "Летом 2026 года Ливерпуль возглавил Андони Ираола, до этого три сезона работавший с Борнмутом.",
+              "answers.0.text": "Андони Ираола",
+              "answers.1.text": "Хаби Алонсо",
+              "answers.2.text": "Оливер Гласнер",
+              "answers.3.text": "Марко Силва"
+            },
+            "translation": {
+              "questionText": "Who replaced Arne Slot as Liverpool head coach ahead of the 2026/27 season?",
+              "comment": "Andoni Iraola took charge of Liverpool in summer 2026 after three seasons at Bournemouth.",
+              "answers.0.text": "Andoni Iraola",
+              "answers.1.text": "Xabi Alonso",
+              "answers.2.text": "Oliver Glasner",
+              "answers.3.text": "Marco Silva"
+            }
+          }
+        },
+        {
+          "id": "club_arsenal_event_20261030_defence",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Кто из участников Битвы тура пропустил меньше мячей за первые восемь матчей АПЛ 2026/27?",
+          "comment": "На 30 октября у Арсенала пять пропущенных мячей, у Ливерпуля восемь. Оба клуба сыграли по восемь матчей.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_arsenal_event_20261030_defence_a1",
+              "text": "Арсенал",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_arsenal_event_20261030_defence_a2",
+              "text": "Ливерпуль",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_arsenal_event_20261030_defence",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Кто из участников Битвы тура пропустил меньше мячей за первые восемь матчей АПЛ 2026/27?",
+              "comment": "На 30 октября у Арсенала пять пропущенных мячей, у Ливерпуля восемь. Оба клуба сыграли по восемь матчей.",
+              "answers.0.text": "Арсенал",
+              "answers.1.text": "Ливерпуль"
+            },
+            "translation": {
+              "questionText": "Which Main Event side conceded fewer goals in their first eight Premier League matches of 2026/27?",
+              "comment": "As of 30 October, Arsenal have conceded five goals and Liverpool eight. Both clubs have played eight matches.",
+              "answers.0.text": "Arsenal",
+              "answers.1.text": "Liverpool"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

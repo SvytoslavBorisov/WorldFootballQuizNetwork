@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T19:37:49.111Z",
+  "updatedAt": "2026-10-30T06:29:05.792Z",
   "datasets": {
     "matchday_fallback": {
       "path": "src-assets/data/matchday-fallback.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/WorldFootballQuizNetwork/main/content/src-assets/data/matchday-fallback.json",
-      "sha256": "3b223022d4bfd3ab06d3ac7dc8f4866f81918188d4d60d59cbf535b7b5d97085",
-      "bytes": 82182
+      "sha256": "795c4e9924243ee7fc3fd515b2aa2bcb8bcc54aa7aa7d449098ad73a6efde57e",
+      "bytes": 29408
     }
   },
   "requiredMediaSlugs": []

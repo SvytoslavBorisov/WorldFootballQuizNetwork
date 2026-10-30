@@ -12,8 +12,8 @@
         "en": "Liverpool – Arsenal"
       },
       "summary": {
-        "ru": "1 ноября «Ливерпуль» и «Арсенал» сойдутся на «Энфилде» в одном из главных матчей тура АПЛ. Два английских гранда, принципиальное соперничество и битва за важнейшие очки!",
-        "en": "Liverpool and Arsenal clash at Anfield on November 1 in one of the Premier League's biggest fixtures of the weekend. Two English giants, a fierce rivalry, and three crucial points at stake!"
+        "ru": "Арсенал рвётся наверх, Ливерпуль готовит ответ на Энфилде",
+        "en": "Arsenal chase top spot, Liverpool prepare their response"
       },
       "fixture": {
         "competition": "premier_league",
@@ -26,1603 +26,598 @@
         ],
         "sourceUrl": "https://soccer365.ru/live/match-liverpul-arsenal-smotret-onlayn/"
       },
-      "items": [
+      "questionCount": 20,
+      "questionIds": [
+        "club_liverpool_82",
+        "club_arsenal_13",
+        "club_liverpool_157",
+        "club_arsenal_7",
+        "club_liverpool_178",
+        "club_arsenal_148",
+        "club_liverpool_208",
+        "club_arsenal_31",
+        "club_liverpool_186",
+        "club_arsenal_133",
+        "club_liverpool_144",
+        "club_arsenal_75",
+        "club_liverpool_7",
+        "club_arsenal_36",
+        "club_liverpool_168",
+        "club_arsenal_17",
+        "club_liverpool_53",
+        "club_arsenal_147",
+        "club_liverpool_217",
+        "club_arsenal_9",
+        "club_liverpool_176",
+        "club_arsenal_135",
+        "club_liverpool_100",
+        "club_arsenal_149",
+        "club_liverpool_166",
+        "club_arsenal_18",
+        "club_liverpool_63",
+        "club_arsenal_140",
+        "club_liverpool_65",
+        "club_arsenal_124"
+      ],
+      "customQuestions": [
         {
-          "id": "mt_liverpool_arsenal__club_liverpool_45",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Сколько Кубков европейских чемпионов выиграл Боб Пейсли как главный тренер Ливерпуля?",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Три",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Один",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Два",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Четыре",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Пять",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Шесть",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Семь",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "comment": "Пейсли привёл Ливерпуль к победам в Кубке чемпионов в 1977, 1978 и 1981 годах.",
-          "difficulty": "normal",
-          "sourceQuestionId": "club_liverpool_45"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_arsenal_82",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Какой английский клуб первым выиграл официальный матч на Сантьяго Бернабеу?",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Арсенал",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Тоттенхэм",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Челси",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Манчестер Юнайтед",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Манчестер Сити",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Ливерпуль",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Реал Мадрид",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "comment": "Арсенал победил Реал Мадрид 1:0 в феврале 2006 года.",
-          "difficulty": "normal",
-          "sourceQuestionId": "club_arsenal_82"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_liverpool_220",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {
-            "maxWrongOptions": 3
-          },
-          "questionText": "Кто этот футболист?",
-          "media": {
-            "questionSlug": "liverpool_ryan-gravenberch",
-            "dialogSlug": "liverpool_ryan-gravenberch",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "id": "ans_1",
-              "text": "Райан Гравенберх",
-              "slug": "no_pic",
-              "isCorrect": true
-            },
-            {
-              "id": "ans_2",
-              "text": "Рио Нгумоха",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_3",
-              "text": "Бредли Баркола",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_4",
-              "text": "Вирджил ван Дейк",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "text": "Жереми Жаке",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Виктор Муньос",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Трей Найони",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "difficulty": "normal",
-          "playerInfo": {
-            "age": 24,
-            "nationality": "Нидерланды",
-            "countryCode": "NL",
-            "position": "Полузащитник"
-          },
-          "sourceQuestionId": "club_liverpool_220"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_arsenal_139",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {
-            "maxWrongOptions": 3
-          },
-          "questionText": "Кто этот футболист?",
-          "media": {
-            "questionSlug": "arsenal_illan-meslier-ado8i7c0udx3",
-            "dialogSlug": "arsenal_illan-meslier-ado8i7c0udx3",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "id": "ans_1",
-              "text": "Иллан Мелье",
-              "slug": "no_pic",
-              "isCorrect": true
-            },
-            {
-              "id": "ans_2",
-              "text": "Бен Уайт",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_3",
-              "text": "Пьеро Инкапье",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_4",
-              "text": "Бруно Гимарайнс",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "text": "Деклан Райс",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Христос Цолис",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Виктор Дьёкереш",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "difficulty": "hard",
-          "playerInfo": {
-            "age": 26,
-            "nationality": "Франция",
-            "countryCode": "FR",
-            "position": "Вратарь"
-          },
-          "sourceQuestionId": "club_arsenal_139"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_liverpool_233",
-          "type": 307,
-          "kind": "season_table",
-          "questionText": "Какой это сезон?",
+          "id": "club_liverpool_event_20261030_position",
           "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Перед матчем с Арсеналом 1 ноября 2026 года Ливерпуль занимает место в зоне ЛЧ. Какое?",
+          "comment": "На 30 октября у Ливерпуля 15 очков после восьми матчей и четвёртое место.",
+          "payload": {},
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "no_pic",
             "correctSlug": "no_pic"
           },
-          "payload": {
-            "source": "group",
-            "title": "Лига чемпионов · Группа A",
-            "maxWrongOptions": 3,
-            "compact": true,
-            "columns": [
-              {
-                "key": "position",
-                "label": "М",
-                "width": 0.65,
-                "align": "center"
-              },
-              {
-                "key": "team",
-                "label": "Команда",
-                "width": 2.8,
-                "align": "left"
-              },
-              {
-                "key": "played",
-                "label": "И",
-                "width": 0.65,
-                "align": "center"
-              },
-              {
-                "key": "wins",
-                "label": "В",
-                "width": 0.65,
-                "align": "center"
-              },
-              {
-                "key": "draws",
-                "label": "Н",
-                "width": 0.65,
-                "align": "center"
-              },
-              {
-                "key": "losses",
-                "label": "П",
-                "width": 0.65,
-                "align": "center"
-              },
-              {
-                "key": "goalDifference",
-                "label": "РМ",
-                "width": 0.65,
-                "align": "center"
-              },
-              {
-                "key": "points",
-                "label": "О",
-                "width": 0.65,
-                "align": "center"
-              }
-            ],
-            "rows": [
-              {
-                "rank": 1,
-                "europeanCompetition": "champions_league",
-                "cells": {
-                  "position": {
-                    "value": "1"
-                  },
-                  "team": {
-                    "value": "Монако"
-                  },
-                  "played": {
-                    "value": "6"
-                  },
-                  "wins": {
-                    "value": "4"
-                  },
-                  "draws": {
-                    "value": "0"
-                  },
-                  "losses": {
-                    "value": "2"
-                  },
-                  "goalDifference": {
-                    "value": "+6"
-                  },
-                  "points": {
-                    "value": "12"
-                  }
-                }
-              },
-              {
-                "rank": 2,
-                "europeanCompetition": "champions_league",
-                "cells": {
-                  "position": {
-                    "value": "2"
-                  },
-                  "team": {
-                    "value": "Ливерпуль"
-                  },
-                  "played": {
-                    "value": "6"
-                  },
-                  "wins": {
-                    "value": "3"
-                  },
-                  "draws": {
-                    "value": "1"
-                  },
-                  "losses": {
-                    "value": "2"
-                  },
-                  "goalDifference": {
-                    "value": "+3"
-                  },
-                  "points": {
-                    "value": "10"
-                  }
-                }
-              },
-              {
-                "rank": 3,
-                "europeanCompetition": "uefa_cup",
-                "cells": {
-                  "position": {
-                    "value": "3"
-                  },
-                  "team": {
-                    "value": "Olympiakos (Pireus)"
-                  },
-                  "played": {
-                    "value": "6"
-                  },
-                  "wins": {
-                    "value": "3"
-                  },
-                  "draws": {
-                    "value": "1"
-                  },
-                  "losses": {
-                    "value": "2"
-                  },
-                  "goalDifference": {
-                    "value": "0"
-                  },
-                  "points": {
-                    "value": "10"
-                  }
-                }
-              },
-              {
-                "rank": 4,
-                "cells": {
-                  "position": {
-                    "value": "4"
-                  },
-                  "team": {
-                    "value": "Deportivo (La Coruña)"
-                  },
-                  "played": {
-                    "value": "6"
-                  },
-                  "wins": {
-                    "value": "0"
-                  },
-                  "draws": {
-                    "value": "2"
-                  },
-                  "losses": {
-                    "value": "4"
-                  },
-                  "goalDifference": {
-                    "value": "-9"
-                  },
-                  "points": {
-                    "value": "2"
-                  }
-                }
-              }
-            ]
-          },
           "answers": [
             {
-              "id": "ans_1",
-              "text": "2004/2005",
+              "id": "club_liverpool_event_20261030_position_a1",
+              "text": "Четвёртое",
               "slug": "no_pic",
               "isCorrect": true
             },
             {
-              "id": "ans_2",
-              "text": "1992/1993",
+              "id": "club_liverpool_event_20261030_position_a2",
+              "text": "Второе",
               "slug": "no_pic",
               "isCorrect": false
             },
             {
-              "id": "ans_3",
-              "text": "2012/2013",
+              "id": "club_liverpool_event_20261030_position_a3",
+              "text": "Третье",
               "slug": "no_pic",
               "isCorrect": false
             },
             {
-              "id": "ans_4",
-              "text": "1998/1999",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_5",
-              "text": "2019/2020",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_6",
-              "text": "2007/2008",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_7",
-              "text": "1995/1996",
+              "id": "club_liverpool_event_20261030_position_a4",
+              "text": "Шестое",
               "slug": "no_pic",
               "isCorrect": false
             }
           ],
-          "sourceQuestionId": "club_liverpool_233"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_arsenal_168",
-          "type": 307,
-          "kind": "season_table",
-          "questionText": "Какой это сезон?",
-          "difficulty": "normal",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
-            "correctSlug": "no_pic"
-          },
-          "payload": {
-            "source": "standings",
-            "columns": [
-              {
-                "key": "position",
-                "label": "М",
-                "width": 0.55,
-                "align": "center"
-              },
-              {
-                "key": "team",
-                "label": "Команда",
-                "width": 2.7,
-                "align": "left"
-              },
-              {
-                "key": "played",
-                "label": "И",
-                "width": 0.62,
-                "align": "center"
-              },
-              {
-                "key": "wins",
-                "label": "В",
-                "width": 0.62,
-                "align": "center"
-              },
-              {
-                "key": "draws",
-                "label": "Н",
-                "width": 0.62,
-                "align": "center"
-              },
-              {
-                "key": "losses",
-                "label": "П",
-                "width": 0.62,
-                "align": "center"
-              },
-              {
-                "key": "goalDifference",
-                "label": "РМ",
-                "width": 0.78,
-                "align": "center"
-              },
-              {
-                "key": "points",
-                "label": "О",
-                "width": 0.7,
-                "align": "center"
-              }
-            ],
-            "rows": [
-              {
-                "rank": 1,
-                "cells": {
-                  "position": {
-                    "value": "1"
-                  },
-                  "team": {
-                    "value": "Лестер Сити"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "23"
-                  },
-                  "draws": {
-                    "value": "12"
-                  },
-                  "losses": {
-                    "value": "3"
-                  },
-                  "goalDifference": {
-                    "value": "+32"
-                  },
-                  "points": {
-                    "value": "81"
-                  }
-                }
-              },
-              {
-                "rank": 2,
-                "cells": {
-                  "position": {
-                    "value": "2"
-                  },
-                  "team": {
-                    "value": "Арсенал"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "20"
-                  },
-                  "draws": {
-                    "value": "11"
-                  },
-                  "losses": {
-                    "value": "7"
-                  },
-                  "goalDifference": {
-                    "value": "+29"
-                  },
-                  "points": {
-                    "value": "71"
-                  }
-                }
-              },
-              {
-                "rank": 3,
-                "cells": {
-                  "position": {
-                    "value": "3"
-                  },
-                  "team": {
-                    "value": "Тоттенхэм"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "19"
-                  },
-                  "draws": {
-                    "value": "13"
-                  },
-                  "losses": {
-                    "value": "6"
-                  },
-                  "goalDifference": {
-                    "value": "+34"
-                  },
-                  "points": {
-                    "value": "70"
-                  }
-                }
-              },
-              {
-                "rank": 4,
-                "cells": {
-                  "position": {
-                    "value": "4"
-                  },
-                  "team": {
-                    "value": "Манчестер Сити"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "19"
-                  },
-                  "draws": {
-                    "value": "9"
-                  },
-                  "losses": {
-                    "value": "10"
-                  },
-                  "goalDifference": {
-                    "value": "+30"
-                  },
-                  "points": {
-                    "value": "66"
-                  }
-                }
-              },
-              {
-                "rank": 5,
-                "cells": {
-                  "position": {
-                    "value": "5"
-                  },
-                  "team": {
-                    "value": "Манчестер Юнайтед"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "19"
-                  },
-                  "draws": {
-                    "value": "9"
-                  },
-                  "losses": {
-                    "value": "10"
-                  },
-                  "goalDifference": {
-                    "value": "+14"
-                  },
-                  "points": {
-                    "value": "66"
-                  }
-                }
-              },
-              {
-                "rank": 6,
-                "cells": {
-                  "position": {
-                    "value": "6"
-                  },
-                  "team": {
-                    "value": "Саутгемптон"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "18"
-                  },
-                  "draws": {
-                    "value": "9"
-                  },
-                  "losses": {
-                    "value": "11"
-                  },
-                  "goalDifference": {
-                    "value": "+18"
-                  },
-                  "points": {
-                    "value": "63"
-                  }
-                }
-              }
-            ],
-            "compact": false,
-            "maxWrongOptions": 3
-          },
-          "answers": [
-            {
-              "id": "ans_1",
-              "text": "2015/2016",
-              "slug": "",
-              "isCorrect": true
+          "translationEn": {
+            "id": "club_liverpool_event_20261030_position",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Перед матчем с Арсеналом 1 ноября 2026 года Ливерпуль занимает место в зоне ЛЧ. Какое?",
+              "comment": "На 30 октября у Ливерпуля 15 очков после восьми матчей и четвёртое место.",
+              "answers.0.text": "Четвёртое",
+              "answers.1.text": "Второе",
+              "answers.2.text": "Третье",
+              "answers.3.text": "Шестое"
             },
-            {
-              "id": "ans_2",
-              "text": "2003/2004",
-              "slug": "",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_3",
-              "text": "2023/2024",
-              "slug": "",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_4",
-              "text": "2009/2010",
-              "slug": "",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_5",
-              "text": "1995/1996",
-              "slug": "",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_6",
-              "text": "2018/2019",
-              "slug": "",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_7",
-              "text": "2006/2007",
-              "slug": "",
-              "isCorrect": false
+            "translation": {
+              "questionText": "Before facing Arsenal on 1 November 2026, Liverpool occupy a Champions League spot. Which position?",
+              "comment": "As of 30 October, Liverpool have 15 points from eight matches and sit fourth.",
+              "answers.0.text": "Fourth",
+              "answers.1.text": "Second",
+              "answers.2.text": "Third",
+              "answers.3.text": "Sixth"
             }
-          ],
-          "sourceQuestionId": "club_arsenal_168"
+          }
         },
         {
-          "id": "mt_liverpool_arsenal__club_liverpool_164",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Каким по счёту тренером Ливерпуля, выигравшим чемпионат Англии в дебютном сезоне, стал Арне Слот?",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Третьим",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Первым",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Вторым",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Четвёртым",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Пятым",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Шестым",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Седьмым",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "comment": "До Арне Слота чемпионат в первый сезон во главе Ливерпуля выигрывали Джо Фэган и Кенни Далглиш.",
-          "difficulty": "hard",
-          "sourceQuestionId": "club_liverpool_164"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_arsenal_124",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Кого удалили у Арсенала в ответном матче Лиги чемпионов против Барселоны в 2011 году?",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Робина ван Перси",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Тьерри Анри",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Деннис Бергкамп",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Патрик Виейра",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Тони Адамс",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Иан Райт",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Робер Пирес",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "comment": "Ван Перси получил вторую жёлтую карточку после эпизода с ударом после свистка.",
-          "difficulty": "hard",
-          "sourceQuestionId": "club_arsenal_124"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_liverpool_coach_portrait",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
+          "id": "club_arsenal_event_20261030_position",
           "difficulty": "easy",
-          "questionText": "Кто этот тренер?",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "На каком месте Арсенал подходит к матчу с Ливерпулем 1 ноября 2026 года, имея столько же очков, сколько лидер?",
+          "comment": "На 30 октября Арсенал и Манчестер Сити набрали по 21 очку. Арсенал второй из-за худшей разницы мячей: +8 против +11.",
+          "payload": {},
           "media": {
-            "questionSlug": "coach_liverpool_andoni-iraola",
-            "dialogSlug": "coach_liverpool_andoni-iraola",
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
             "correctSlug": "no_pic"
           },
           "answers": [
             {
-              "id": "ans_1",
+              "id": "club_arsenal_event_20261030_position_a1",
+              "text": "На втором",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_arsenal_event_20261030_position_a2",
+              "text": "На первом",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_arsenal_event_20261030_position_a3",
+              "text": "На третьем",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_arsenal_event_20261030_position_a4",
+              "text": "На четвёртом",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_arsenal_event_20261030_position",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "На каком месте Арсенал подходит к матчу с Ливерпулем 1 ноября 2026 года, имея столько же очков, сколько лидер?",
+              "comment": "На 30 октября Арсенал и Манчестер Сити набрали по 21 очку. Арсенал второй из-за худшей разницы мячей: +8 против +11.",
+              "answers.0.text": "На втором",
+              "answers.1.text": "На первом",
+              "answers.2.text": "На третьем",
+              "answers.3.text": "На четвёртом"
+            },
+            "translation": {
+              "questionText": "Where do Arsenal sit before facing Liverpool on 1 November 2026, despite having as many points as the leaders?",
+              "comment": "As of 30 October, Arsenal and Manchester City have 21 points each. Arsenal are second on goal difference: +8 compared with +11.",
+              "answers.0.text": "Second",
+              "answers.1.text": "First",
+              "answers.2.text": "Third",
+              "answers.3.text": "Fourth"
+            }
+          }
+        },
+        {
+          "id": "club_liverpool_event_20261030_scorer",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Кто к 30 октября 2026 года забил больше половины всех голов Ливерпуля в текущем сезоне АПЛ?",
+          "comment": "У Исака шесть голов в АПЛ, у Ливерпуля в сумме одиннадцать. Швед забил больше половины.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_liverpool_event_20261030_scorer_a1",
+              "text": "Александер Исак",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_liverpool_event_20261030_scorer_a2",
+              "text": "Коди Гакпо",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_liverpool_event_20261030_scorer_a3",
+              "text": "Флориан Вирц",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_liverpool_event_20261030_scorer_a4",
+              "text": "Брэдли Барколя",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_liverpool_event_20261030_scorer",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Кто к 30 октября 2026 года забил больше половины всех голов Ливерпуля в текущем сезоне АПЛ?",
+              "comment": "У Исака шесть голов в АПЛ, у Ливерпуля в сумме одиннадцать. Швед забил больше половины.",
+              "answers.0.text": "Александер Исак",
+              "answers.1.text": "Коди Гакпо",
+              "answers.2.text": "Флориан Вирц",
+              "answers.3.text": "Брэдли Барколя"
+            },
+            "translation": {
+              "questionText": "Who has scored more than half of Liverpool’s Premier League goals this season as of 30 October 2026?",
+              "comment": "Isak has six Premier League goals and Liverpool have eleven in total. The Swede has scored more than half.",
+              "answers.0.text": "Alexander Isak",
+              "answers.1.text": "Cody Gakpo",
+              "answers.2.text": "Florian Wirtz",
+              "answers.3.text": "Bradley Barcola"
+            }
+          }
+        },
+        {
+          "id": "club_arsenal_event_20261030_scorer",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Кто возглавляет список бомбардиров Арсенала в АПЛ сезона 2026/27 на 30 октября?",
+          "comment": "Сака забил три мяча в АПЛ. У Хаверца, Эдегора и Гимарайнса по два.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_arsenal_event_20261030_scorer_a1",
+              "text": "Букайо Сака",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_arsenal_event_20261030_scorer_a2",
+              "text": "Кай Хаверц",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_arsenal_event_20261030_scorer_a3",
+              "text": "Мартин Эдегор",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_arsenal_event_20261030_scorer_a4",
+              "text": "Бруну Гимарайнс",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_arsenal_event_20261030_scorer",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Кто возглавляет список бомбардиров Арсенала в АПЛ сезона 2026/27 на 30 октября?",
+              "comment": "Сака забил три мяча в АПЛ. У Хаверца, Эдегора и Гимарайнса по два.",
+              "answers.0.text": "Букайо Сака",
+              "answers.1.text": "Кай Хаверц",
+              "answers.2.text": "Мартин Эдегор",
+              "answers.3.text": "Бруну Гимарайнс"
+            },
+            "translation": {
+              "questionText": "Who leads Arsenal’s Premier League scoring chart in 2026/27 as of 30 October?",
+              "comment": "Saka has three Premier League goals. Havertz, Ødegaard and Guimarães have two each.",
+              "answers.0.text": "Bukayo Saka",
+              "answers.1.text": "Kai Havertz",
+              "answers.2.text": "Martin Ødegaard",
+              "answers.3.text": "Bruno Guimarães"
+            }
+          }
+        },
+        {
+          "id": "club_liverpool_event_20261030_barcola",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Из какого клуба Ливерпуль летом 2026 года приобрёл Брэдли Барколя, усилив атакующие фланги?",
+          "comment": "Барколя перешёл из ПСЖ после трёх сезонов в парижском клубе. В Ливерпуле он получил номер 29.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_liverpool_event_20261030_barcola_a1",
+              "text": "ПСЖ",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_liverpool_event_20261030_barcola_a2",
+              "text": "Лион",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_liverpool_event_20261030_barcola_a3",
+              "text": "Монако",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_liverpool_event_20261030_barcola_a4",
+              "text": "Лилль",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_liverpool_event_20261030_barcola",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Из какого клуба Ливерпуль летом 2026 года приобрёл Брэдли Барколя, усилив атакующие фланги?",
+              "comment": "Барколя перешёл из ПСЖ после трёх сезонов в парижском клубе. В Ливерпуле он получил номер 29.",
+              "answers.0.text": "ПСЖ",
+              "answers.1.text": "Лион",
+              "answers.2.text": "Монако",
+              "answers.3.text": "Лилль"
+            },
+            "translation": {
+              "questionText": "From which club did Liverpool sign Bradley Barcola in summer 2026 to strengthen their wide attacking options?",
+              "comment": "Barcola arrived from PSG after three seasons in Paris. He took the No.29 shirt at Liverpool.",
+              "answers.0.text": "PSG",
+              "answers.1.text": "Lyon",
+              "answers.2.text": "Monaco",
+              "answers.3.text": "Lille"
+            }
+          }
+        },
+        {
+          "id": "club_liverpool_event_20261030_jacquet",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Из какого французского клуба летом 2026 года в Ливерпуль прибыл защитник Жереми Жаке?",
+          "comment": "Ливерпуль заранее согласовал переход Жаке из Ренна. Защитник присоединился к команде летом 2026 года.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_liverpool_event_20261030_jacquet_a1",
+              "text": "Ренн",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_liverpool_event_20261030_jacquet_a2",
+              "text": "Ланс",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_liverpool_event_20261030_jacquet_a3",
+              "text": "Марсель",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_liverpool_event_20261030_jacquet_a4",
+              "text": "Страсбур",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_liverpool_event_20261030_jacquet",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Из какого французского клуба летом 2026 года в Ливерпуль прибыл защитник Жереми Жаке?",
+              "comment": "Ливерпуль заранее согласовал переход Жаке из Ренна. Защитник присоединился к команде летом 2026 года.",
+              "answers.0.text": "Ренн",
+              "answers.1.text": "Ланс",
+              "answers.2.text": "Марсель",
+              "answers.3.text": "Страсбур"
+            },
+            "translation": {
+              "questionText": "Which French club did defender Jeremy Jacquet leave to join Liverpool in summer 2026?",
+              "comment": "Liverpool agreed Jacquet’s transfer from Rennes in advance. The defender joined the squad in summer 2026.",
+              "answers.0.text": "Rennes",
+              "answers.1.text": "Lens",
+              "answers.2.text": "Marseille",
+              "answers.3.text": "Strasbourg"
+            }
+          }
+        },
+        {
+          "id": "club_arsenal_event_20261030_guimaraes",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Какой бразильский полузащитник перешёл из Ньюкасла в Арсенал летом 2026 года?",
+          "comment": "Арсенал усилил центр поля Бруну Гимарайнсом из Ньюкасла в августе 2026 года.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_arsenal_event_20261030_guimaraes_a1",
+              "text": "Бруну Гимарайнс",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_arsenal_event_20261030_guimaraes_a2",
+              "text": "Жоэлинтон",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_arsenal_event_20261030_guimaraes_a3",
+              "text": "Лукас Пакета",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_arsenal_event_20261030_guimaraes_a4",
+              "text": "Андре",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_arsenal_event_20261030_guimaraes",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Какой бразильский полузащитник перешёл из Ньюкасла в Арсенал летом 2026 года?",
+              "comment": "Арсенал усилил центр поля Бруну Гимарайнсом из Ньюкасла в августе 2026 года.",
+              "answers.0.text": "Бруну Гимарайнс",
+              "answers.1.text": "Жоэлинтон",
+              "answers.2.text": "Лукас Пакета",
+              "answers.3.text": "Андре"
+            },
+            "translation": {
+              "questionText": "Which Brazilian midfielder moved from Newcastle to Arsenal in summer 2026?",
+              "comment": "Arsenal strengthened their midfield by signing Bruno Guimarães from Newcastle in August 2026.",
+              "answers.0.text": "Bruno Guimarães",
+              "answers.1.text": "Joelinton",
+              "answers.2.text": "Lucas Paquetá",
+              "answers.3.text": "André"
+            }
+          }
+        },
+        {
+          "id": "club_arsenal_event_20261030_konsa",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Кого Арсенал приобрёл у Астон Виллы летом 2026 года, усилив центр обороны на фоне травмы Салиба?",
+          "comment": "Эзри Конса перешёл из Астон Виллы. Его приход помог Арсеналу закрыть потерю Уильяма Салиба.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_arsenal_event_20261030_konsa_a1",
+              "text": "Эзри Конса",
+              "slug": "no_pic",
+              "isCorrect": true
+            },
+            {
+              "id": "club_arsenal_event_20261030_konsa_a2",
+              "text": "Пау Торрес",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_arsenal_event_20261030_konsa_a3",
+              "text": "Тайрон Мингс",
+              "slug": "no_pic",
+              "isCorrect": false
+            },
+            {
+              "id": "club_arsenal_event_20261030_konsa_a4",
+              "text": "Диего Карлос",
+              "slug": "no_pic",
+              "isCorrect": false
+            }
+          ],
+          "translationEn": {
+            "id": "club_arsenal_event_20261030_konsa",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Кого Арсенал приобрёл у Астон Виллы летом 2026 года, усилив центр обороны на фоне травмы Салиба?",
+              "comment": "Эзри Конса перешёл из Астон Виллы. Его приход помог Арсеналу закрыть потерю Уильяма Салиба.",
+              "answers.0.text": "Эзри Конса",
+              "answers.1.text": "Пау Торрес",
+              "answers.2.text": "Тайрон Мингс",
+              "answers.3.text": "Диего Карлос"
+            },
+            "translation": {
+              "questionText": "Who did Arsenal sign from Aston Villa in summer 2026 to strengthen central defence amid Saliba’s injury?",
+              "comment": "Ezri Konsa arrived from Aston Villa. His signing helped Arsenal cover for William Saliba’s absence.",
+              "answers.0.text": "Ezri Konsa",
+              "answers.1.text": "Pau Torres",
+              "answers.2.text": "Tyrone Mings",
+              "answers.3.text": "Diego Carlos"
+            }
+          }
+        },
+        {
+          "id": "club_liverpool_event_20261030_coach",
+          "difficulty": "easy",
+          "type": 1,
+          "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Кто сменил Арне Слота во главе Ливерпуля перед сезоном 2026/27?",
+          "comment": "Летом 2026 года Ливерпуль возглавил Андони Ираола, до этого три сезона работавший с Борнмутом.",
+          "payload": {},
+          "media": {
+            "questionSlug": "no_pic",
+            "dialogSlug": "no_pic",
+            "correctSlug": "no_pic"
+          },
+          "answers": [
+            {
+              "id": "club_liverpool_event_20261030_coach_a1",
               "text": "Андони Ираола",
               "slug": "no_pic",
               "isCorrect": true
             },
             {
-              "id": "ans_2",
-              "text": "Сеск Фабрегас",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_3",
-              "text": "Бруно Женезио",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_4",
-              "text": "Рубен Аморим",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_5",
+              "id": "club_liverpool_event_20261030_coach_a2",
               "text": "Хаби Алонсо",
               "slug": "no_pic",
               "isCorrect": false
             },
             {
-              "id": "ans_6",
-              "text": "Нико Ковач",
+              "id": "club_liverpool_event_20261030_coach_a3",
+              "text": "Оливер Гласнер",
               "slug": "no_pic",
               "isCorrect": false
             },
             {
-              "id": "ans_7",
-              "text": "Кристиан Киву",
+              "id": "club_liverpool_event_20261030_coach_a4",
+              "text": "Марко Силва",
               "slug": "no_pic",
               "isCorrect": false
             }
           ],
-          "sourceQuestionId": "club_liverpool_coach_portrait"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_arsenal_137",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {
-            "maxWrongOptions": 3
-          },
-          "questionText": "Кто этот футболист?",
-          "media": {
-            "questionSlug": "arsenal_david-raya-aeasj0d0wctd",
-            "dialogSlug": "arsenal_david-raya-aeasj0d0wctd",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "id": "ans_1",
-              "text": "Давид Райя",
-              "slug": "no_pic",
-              "isCorrect": true
+          "translationEn": {
+            "id": "club_liverpool_event_20261030_coach",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Кто сменил Арне Слота во главе Ливерпуля перед сезоном 2026/27?",
+              "comment": "Летом 2026 года Ливерпуль возглавил Андони Ираола, до этого три сезона работавший с Борнмутом.",
+              "answers.0.text": "Андони Ираола",
+              "answers.1.text": "Хаби Алонсо",
+              "answers.2.text": "Оливер Гласнер",
+              "answers.3.text": "Марко Силва"
             },
-            {
-              "id": "ans_2",
-              "text": "Эзри Конса",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_3",
-              "text": "Риккардо Калафьори",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_4",
-              "text": "Юрриен Тимбер",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "text": "Габриэл Магальяйнс",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Кай Хаверц",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Кепа Аррисабалага",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
+            "translation": {
+              "questionText": "Who replaced Arne Slot as Liverpool head coach ahead of the 2026/27 season?",
+              "comment": "Andoni Iraola took charge of Liverpool in summer 2026 after three seasons at Bournemouth.",
+              "answers.0.text": "Andoni Iraola",
+              "answers.1.text": "Xabi Alonso",
+              "answers.2.text": "Oliver Glasner",
+              "answers.3.text": "Marco Silva"
             }
-          ],
-          "difficulty": "normal",
-          "playerInfo": {
-            "age": 31,
-            "nationality": "Испания",
-            "countryCode": "ES",
-            "position": "Вратарь"
-          },
-          "sourceQuestionId": "club_arsenal_137"
+          }
         },
         {
-          "id": "mt_liverpool_arsenal__club_liverpool_230",
-          "type": 307,
-          "kind": "season_table",
-          "questionText": "Какой это сезон?",
+          "id": "club_arsenal_event_20261030_defence",
           "difficulty": "easy",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
-            "correctSlug": "no_pic"
-          },
-          "payload": {
-            "source": "standings",
-            "columns": [
-              {
-                "key": "position",
-                "label": "М",
-                "width": 0.55,
-                "align": "center"
-              },
-              {
-                "key": "team",
-                "label": "Команда",
-                "width": 2.7,
-                "align": "left"
-              },
-              {
-                "key": "played",
-                "label": "И",
-                "width": 0.62,
-                "align": "center"
-              },
-              {
-                "key": "wins",
-                "label": "В",
-                "width": 0.62,
-                "align": "center"
-              },
-              {
-                "key": "draws",
-                "label": "Н",
-                "width": 0.62,
-                "align": "center"
-              },
-              {
-                "key": "losses",
-                "label": "П",
-                "width": 0.62,
-                "align": "center"
-              },
-              {
-                "key": "goalDifference",
-                "label": "РМ",
-                "width": 0.78,
-                "align": "center"
-              },
-              {
-                "key": "points",
-                "label": "О",
-                "width": 0.7,
-                "align": "center"
-              }
-            ],
-            "rows": [
-              {
-                "rank": 1,
-                "cells": {
-                  "position": {
-                    "value": "1"
-                  },
-                  "team": {
-                    "value": "Ливерпуль"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "32"
-                  },
-                  "draws": {
-                    "value": "3"
-                  },
-                  "losses": {
-                    "value": "3"
-                  },
-                  "goalDifference": {
-                    "value": "+52"
-                  },
-                  "points": {
-                    "value": "99"
-                  }
-                }
-              },
-              {
-                "rank": 2,
-                "cells": {
-                  "position": {
-                    "value": "2"
-                  },
-                  "team": {
-                    "value": "Манчестер Сити"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "26"
-                  },
-                  "draws": {
-                    "value": "3"
-                  },
-                  "losses": {
-                    "value": "9"
-                  },
-                  "goalDifference": {
-                    "value": "+67"
-                  },
-                  "points": {
-                    "value": "81"
-                  }
-                }
-              },
-              {
-                "rank": 3,
-                "cells": {
-                  "position": {
-                    "value": "3"
-                  },
-                  "team": {
-                    "value": "Манчестер Юнайтед"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "18"
-                  },
-                  "draws": {
-                    "value": "12"
-                  },
-                  "losses": {
-                    "value": "8"
-                  },
-                  "goalDifference": {
-                    "value": "+30"
-                  },
-                  "points": {
-                    "value": "66"
-                  }
-                }
-              },
-              {
-                "rank": 4,
-                "cells": {
-                  "position": {
-                    "value": "4"
-                  },
-                  "team": {
-                    "value": "Челси"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "20"
-                  },
-                  "draws": {
-                    "value": "6"
-                  },
-                  "losses": {
-                    "value": "12"
-                  },
-                  "goalDifference": {
-                    "value": "+15"
-                  },
-                  "points": {
-                    "value": "66"
-                  }
-                }
-              },
-              {
-                "rank": 5,
-                "cells": {
-                  "position": {
-                    "value": "5"
-                  },
-                  "team": {
-                    "value": "Лестер Сити"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "18"
-                  },
-                  "draws": {
-                    "value": "8"
-                  },
-                  "losses": {
-                    "value": "12"
-                  },
-                  "goalDifference": {
-                    "value": "+26"
-                  },
-                  "points": {
-                    "value": "62"
-                  }
-                }
-              },
-              {
-                "rank": 6,
-                "cells": {
-                  "position": {
-                    "value": "6"
-                  },
-                  "team": {
-                    "value": "Тоттенхэм"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "16"
-                  },
-                  "draws": {
-                    "value": "11"
-                  },
-                  "losses": {
-                    "value": "11"
-                  },
-                  "goalDifference": {
-                    "value": "+14"
-                  },
-                  "points": {
-                    "value": "59"
-                  }
-                }
-              }
-            ],
-            "compact": false,
-            "maxWrongOptions": 3
-          },
-          "answers": [
-            {
-              "id": "ans_1",
-              "text": "2019/2020",
-              "slug": "",
-              "isCorrect": true
-            },
-            {
-              "id": "ans_2",
-              "text": "2007/2008",
-              "slug": "",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_3",
-              "text": "2013/2014",
-              "slug": "",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_4",
-              "text": "1999/2000",
-              "slug": "",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_5",
-              "text": "2022/2023",
-              "slug": "",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_6",
-              "text": "2010/2011",
-              "slug": "",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_7",
-              "text": "2003/2004",
-              "slug": "",
-              "isCorrect": false
-            }
-          ],
-          "sourceQuestionId": "club_liverpool_230"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_arsenal_163",
-          "type": 307,
-          "kind": "season_table",
-          "questionText": "Какой это сезон?",
-          "difficulty": "easy",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
-            "correctSlug": "no_pic"
-          },
-          "payload": {
-            "source": "standings",
-            "columns": [
-              {
-                "key": "position",
-                "label": "М",
-                "width": 0.55,
-                "align": "center"
-              },
-              {
-                "key": "team",
-                "label": "Команда",
-                "width": 2.7,
-                "align": "left"
-              },
-              {
-                "key": "played",
-                "label": "И",
-                "width": 0.62,
-                "align": "center"
-              },
-              {
-                "key": "wins",
-                "label": "В",
-                "width": 0.62,
-                "align": "center"
-              },
-              {
-                "key": "draws",
-                "label": "Н",
-                "width": 0.62,
-                "align": "center"
-              },
-              {
-                "key": "losses",
-                "label": "П",
-                "width": 0.62,
-                "align": "center"
-              },
-              {
-                "key": "goalDifference",
-                "label": "РМ",
-                "width": 0.78,
-                "align": "center"
-              },
-              {
-                "key": "points",
-                "label": "О",
-                "width": 0.7,
-                "align": "center"
-              }
-            ],
-            "rows": [
-              {
-                "rank": 5,
-                "cells": {
-                  "position": {
-                    "value": "5"
-                  },
-                  "team": {
-                    "value": "Лестер Сити"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "18"
-                  },
-                  "draws": {
-                    "value": "8"
-                  },
-                  "losses": {
-                    "value": "12"
-                  },
-                  "goalDifference": {
-                    "value": "+26"
-                  },
-                  "points": {
-                    "value": "62"
-                  }
-                }
-              },
-              {
-                "rank": 6,
-                "cells": {
-                  "position": {
-                    "value": "6"
-                  },
-                  "team": {
-                    "value": "Тоттенхэм"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "16"
-                  },
-                  "draws": {
-                    "value": "11"
-                  },
-                  "losses": {
-                    "value": "11"
-                  },
-                  "goalDifference": {
-                    "value": "+14"
-                  },
-                  "points": {
-                    "value": "59"
-                  }
-                }
-              },
-              {
-                "rank": 7,
-                "cells": {
-                  "position": {
-                    "value": "7"
-                  },
-                  "team": {
-                    "value": "Вулверхэмптон"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "15"
-                  },
-                  "draws": {
-                    "value": "14"
-                  },
-                  "losses": {
-                    "value": "9"
-                  },
-                  "goalDifference": {
-                    "value": "+11"
-                  },
-                  "points": {
-                    "value": "59"
-                  }
-                }
-              },
-              {
-                "rank": 8,
-                "cells": {
-                  "position": {
-                    "value": "8"
-                  },
-                  "team": {
-                    "value": "Арсенал"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "14"
-                  },
-                  "draws": {
-                    "value": "14"
-                  },
-                  "losses": {
-                    "value": "10"
-                  },
-                  "goalDifference": {
-                    "value": "+8"
-                  },
-                  "points": {
-                    "value": "56"
-                  }
-                }
-              },
-              {
-                "rank": 9,
-                "cells": {
-                  "position": {
-                    "value": "9"
-                  },
-                  "team": {
-                    "value": "Шеффилд Юнайтед"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "14"
-                  },
-                  "draws": {
-                    "value": "12"
-                  },
-                  "losses": {
-                    "value": "12"
-                  },
-                  "goalDifference": {
-                    "value": "0"
-                  },
-                  "points": {
-                    "value": "54"
-                  }
-                }
-              },
-              {
-                "rank": 10,
-                "cells": {
-                  "position": {
-                    "value": "10"
-                  },
-                  "team": {
-                    "value": "Бернли"
-                  },
-                  "played": {
-                    "value": "38"
-                  },
-                  "wins": {
-                    "value": "15"
-                  },
-                  "draws": {
-                    "value": "9"
-                  },
-                  "losses": {
-                    "value": "14"
-                  },
-                  "goalDifference": {
-                    "value": "-7"
-                  },
-                  "points": {
-                    "value": "54"
-                  }
-                }
-              }
-            ],
-            "compact": false,
-            "maxWrongOptions": 3
-          },
-          "answers": [
-            {
-              "id": "ans_1",
-              "text": "2019/2020",
-              "slug": "",
-              "isCorrect": true
-            },
-            {
-              "id": "ans_2",
-              "text": "2007/2008",
-              "slug": "",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_3",
-              "text": "2013/2014",
-              "slug": "",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_4",
-              "text": "1999/2000",
-              "slug": "",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_5",
-              "text": "2022/2023",
-              "slug": "",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_6",
-              "text": "2010/2011",
-              "slug": "",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_7",
-              "text": "2003/2004",
-              "slug": "",
-              "isCorrect": false
-            }
-          ],
-          "sourceQuestionId": "club_arsenal_163"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_liverpool_68",
           "type": 1,
           "kind": "multi_choice",
+          "presentation": "text",
+          "questionText": "Кто из участников Битвы тура пропустил меньше мячей за первые восемь матчей АПЛ 2026/27?",
+          "comment": "На 30 октября у Арсенала пять пропущенных мячей, у Ливерпуля восемь. Оба клуба сыграли по восемь матчей.",
           "payload": {},
-          "questionText": "Кто сменил Кенни Далглиша на посту главного тренера Ливерпуля в 2012 году?",
           "media": {
             "questionSlug": "no_pic",
             "dialogSlug": "no_pic",
@@ -1630,1110 +625,34 @@
           },
           "answers": [
             {
-              "text": "Брендан Роджерс",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Рой Ходжсон",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Рафаэль Бенитес",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Юрген Клопп",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Роберто Мартинес",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Андре Виллаш-Боаш",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Фил Томпсон",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "comment": "Брендан Роджерс пришёл из Суонси Сити и в сезоне 2013/14 почти привёл клуб к чемпионству.",
-          "difficulty": "normal",
-          "sourceQuestionId": "club_liverpool_68"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_arsenal_110",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Когда Андрей Аршавин дебютировал за Арсенал?",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "21 февраля 2009 года",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "14 февраля 2009 года",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "18 февраля 2009 года",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "25 февраля 2009 года",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "1 марта 2009 года",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "8 марта 2009 года",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "15 марта 2009 года",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "comment": "Дебют Аршавина состоялся в домашнем матче Премьер-лиги против Сандерленда.",
-          "difficulty": "hard",
-          "sourceQuestionId": "club_arsenal_110"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_liverpool_209",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {
-            "maxWrongOptions": 3
-          },
-          "questionText": "Кто этот футболист?",
-          "media": {
-            "questionSlug": "liverpool_jeremy-jacquet",
-            "dialogSlug": "liverpool_jeremy-jacquet",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "id": "ans_1",
-              "text": "Жереми Жаке",
+              "id": "club_arsenal_event_20261030_defence_a1",
+              "text": "Арсенал",
               "slug": "no_pic",
               "isCorrect": true
             },
             {
-              "id": "ans_2",
-              "text": "Джереми Фримпонг",
+              "id": "club_arsenal_event_20261030_defence_a2",
+              "text": "Ливерпуль",
               "slug": "no_pic",
               "isCorrect": false
-            },
-            {
-              "id": "ans_3",
-              "text": "Бредли Баркола",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_4",
-              "text": "Трей Найони",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "text": "Рио Нгумоха",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Райан Гравенберх",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Александер Исак",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
             }
           ],
-          "difficulty": "normal",
-          "playerInfo": {
-            "age": 21,
-            "nationality": "Франция",
-            "countryCode": "FR",
-            "position": "Защитник"
-          },
-          "sourceQuestionId": "club_liverpool_209"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_arsenal_145",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {
-            "maxWrongOptions": 3
-          },
-          "questionText": "Кто этот футболист?",
-          "media": {
-            "questionSlug": "arsenal_jurrien-timber-ateix5r0hr7l",
-            "dialogSlug": "arsenal_jurrien-timber-ateix5r0hr7l",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "id": "ans_1",
-              "text": "Юрриен Тимбер",
-              "slug": "no_pic",
-              "isCorrect": true
+          "translationEn": {
+            "id": "club_arsenal_event_20261030_defence",
+            "kind": "multi_choice",
+            "source": {
+              "questionText": "Кто из участников Битвы тура пропустил меньше мячей за первые восемь матчей АПЛ 2026/27?",
+              "comment": "На 30 октября у Арсенала пять пропущенных мячей, у Ливерпуля восемь. Оба клуба сыграли по восемь матчей.",
+              "answers.0.text": "Арсенал",
+              "answers.1.text": "Ливерпуль"
             },
-            {
-              "id": "ans_2",
-              "text": "Габриэл Магальяйнс",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_3",
-              "text": "Кристиан Москера",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_4",
-              "text": "Нони Мадуэке",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "text": "Эзри Конса",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Вильям Салиба",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Кай Хаверц",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
+            "translation": {
+              "questionText": "Which Main Event side conceded fewer goals in their first eight Premier League matches of 2026/27?",
+              "comment": "As of 30 October, Arsenal have conceded five goals and Liverpool eight. Both clubs have played eight matches.",
+              "answers.0.text": "Arsenal",
+              "answers.1.text": "Liverpool"
             }
-          ],
-          "difficulty": "hard",
-          "playerInfo": {
-            "age": 25,
-            "nationality": "Нидерланды",
-            "countryCode": "NL",
-            "position": "Защитник"
-          },
-          "sourceQuestionId": "club_arsenal_145"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_liverpool_74",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Какой клуб победил Ливерпуль в финале Лиги чемпионов 2018 года?",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Реал Мадрид",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Барселона",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Ювентус",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Бавария",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Атлетико Мадрид",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Валенсия",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Севилья",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "comment": "Финал в Киеве закончился победой Реала Мадрид со счётом 3:1.",
-          "difficulty": "easy",
-          "sourceQuestionId": "club_liverpool_74"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_arsenal_28",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "С каким результатом Арсенал проиграл серию пенальти в финале Лиги чемпионов 2026 года?",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "3:4",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "0:0",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "1:0",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "0:1",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "1:1",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "2:0",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "0:2",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "comment": "После 1:1 в игровое время победитель финала определился в серии пенальти.",
-          "difficulty": "easy",
-          "sourceQuestionId": "club_arsenal_28"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_liverpool_225",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {
-            "maxWrongOptions": 3
-          },
-          "questionText": "Кто этот футболист?",
-          "media": {
-            "questionSlug": "liverpool_cody-gakpo",
-            "dialogSlug": "liverpool_cody-gakpo",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "id": "ans_1",
-              "text": "Коди Гакпо",
-              "slug": "no_pic",
-              "isCorrect": true
-            },
-            {
-              "id": "ans_2",
-              "text": "Алексис Макаллистер",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_3",
-              "text": "Георгий Мамардашвили",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_4",
-              "text": "Вирджил ван Дейк",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "text": "Джо Гомес",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Райан Гравенберх",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Жереми Жаке",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "difficulty": "normal",
-          "playerInfo": {
-            "age": 27,
-            "nationality": "Нидерланды",
-            "countryCode": "NL",
-            "position": "Нападающий"
-          },
-          "sourceQuestionId": "club_liverpool_225"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_arsenal_144",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {
-            "maxWrongOptions": 3
-          },
-          "questionText": "Кто этот футболист?",
-          "media": {
-            "questionSlug": "arsenal_gabriel-ahzim1j5mnxu",
-            "dialogSlug": "arsenal_gabriel-ahzim1j5mnxu",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "id": "ans_1",
-              "text": "Габриэл Магальяйнс",
-              "slug": "no_pic",
-              "isCorrect": true
-            },
-            {
-              "id": "ans_2",
-              "text": "Юрриен Тимбер",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_3",
-              "text": "Кай Хаверц",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_4",
-              "text": "Вильям Салиба",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "text": "Микель Мерино",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Кепа Аррисабалага",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Эзри Конса",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "difficulty": "normal",
-          "playerInfo": {
-            "age": 28,
-            "nationality": "Бразилия",
-            "countryCode": "BR",
-            "position": "Защитник"
-          },
-          "sourceQuestionId": "club_arsenal_144"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_liverpool_130",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Какой воспитанник Эвертона, ставший легендой Манчестер Юнайтед, говорил о своей детской неприязни к Ливерпулю?",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Уэйн Руни",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Пол Скоулз",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Райан Гиггз",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Дэвид Бекхэм",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Гари Невилл",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Ники Батт",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Рио Фердинанд",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "comment": "Руни вырос болельщиком Эвертона и позже стал одним из главных соперников Ливерпуля в составе Манчестер Юнайтед.",
-          "difficulty": "easy",
-          "sourceQuestionId": "club_liverpool_130"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_arsenal_131",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Сколько лет было Сеску Фабрегасу, когда он забил первый гол за Арсенал?",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "16 лет и 212 дней",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "16 лет и 72 дня",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "16 лет и 150 дней",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "16 лет и 250 дней",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "17 лет и 10 дней",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "17 лет и 90 дней",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "15 лет и 300 дней",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "comment": "Фабрегас стал самым молодым автором гола в истории Арсенала.",
-          "difficulty": "hard",
-          "sourceQuestionId": "club_arsenal_131"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_liverpool_205",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {
-            "maxWrongOptions": 3
-          },
-          "questionText": "Кто этот футболист?",
-          "media": {
-            "questionSlug": "liverpool_vitezslav-jaros",
-            "dialogSlug": "liverpool_vitezslav-jaros",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "id": "ans_1",
-              "text": "Витезслав Ярош",
-              "slug": "no_pic",
-              "isCorrect": true
-            },
-            {
-              "id": "ans_2",
-              "text": "Юго Экитике",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_3",
-              "text": "Фредди Вудмен",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_4",
-              "text": "Костас Цимикас",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "text": "Вирджил ван Дейк",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Джованни Леони",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Виктор Муньос",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "difficulty": "hard",
-          "playerInfo": {
-            "age": 25,
-            "nationality": "Чехия",
-            "countryCode": "CZ",
-            "position": "Вратарь"
-          },
-          "sourceQuestionId": "club_liverpool_205"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_arsenal_150",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {
-            "maxWrongOptions": 3
-          },
-          "questionText": "Кто этот футболист?",
-          "media": {
-            "questionSlug": "arsenal_eberechi-eze-awlc50m8vg3w",
-            "dialogSlug": "arsenal_eberechi-eze-awlc50m8vg3w",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "id": "ans_1",
-              "text": "Эберечи Эзе",
-              "slug": "no_pic",
-              "isCorrect": true
-            },
-            {
-              "id": "ans_2",
-              "text": "Кристиан Москера",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_3",
-              "text": "Нони Мадуэке",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_4",
-              "text": "Букайо Сака",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "text": "Майлз Льюис-Скелли",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Юрриен Тимбер",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Эзри Конса",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "difficulty": "hard",
-          "playerInfo": {
-            "age": 28,
-            "nationality": "Англия",
-            "countryCode": "GB",
-            "position": "Полузащитник"
-          },
-          "sourceQuestionId": "club_arsenal_150"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_liverpool_20",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Кто был капитаном Ливерпуля во время первого чемпионства клуба в 1901 году?",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Алекс Райзбек",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Эфраим Лонгворт",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Билли Лидделл",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Элайша Скотт",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Гордон Ходжсон",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Джек Паркинсон",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Сэм Рэйбоулд",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "comment": "Шотландец Алекс Райзбек был капитаном первой чемпионской команды Ливерпуля.",
-          "difficulty": "hard",
-          "sourceQuestionId": "club_liverpool_20"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_arsenal_100",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Кто рекомендовал Арсеналу приобрести Денниса Бергкампа ещё до своего официального прихода в клуб?",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Арсен Венгер",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Микель Артета",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Джордж Грэм",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Герберт Чепмен",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Унаи Эмери",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Берти Ми",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Терри Нил",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "comment": "Арсен Венгер высоко оценивал Бергкампа ещё до того, как официально возглавил Арсенал.",
-          "difficulty": "hard",
-          "sourceQuestionId": "club_arsenal_100"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_liverpool_226",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {
-            "maxWrongOptions": 3
-          },
-          "questionText": "Кто этот футболист?",
-          "media": {
-            "questionSlug": "liverpool_hugo-ekitike",
-            "dialogSlug": "liverpool_hugo-ekitike",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "id": "ans_1",
-              "text": "Юго Экитике",
-              "slug": "no_pic",
-              "isCorrect": true
-            },
-            {
-              "id": "ans_2",
-              "text": "Витезслав Ярош",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_3",
-              "text": "Вирджил ван Дейк",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_4",
-              "text": "Фредди Вудмен",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "text": "Костас Цимикас",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Виктор Муньос",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Джованни Леони",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "difficulty": "normal",
-          "playerInfo": {
-            "age": 24,
-            "nationality": "Франция",
-            "countryCode": "FR",
-            "position": "Нападающий"
-          },
-          "sourceQuestionId": "club_liverpool_226"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_arsenal_156",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {
-            "maxWrongOptions": 3
-          },
-          "questionText": "Кто этот футболист?",
-          "media": {
-            "questionSlug": "arsenal_viktor-gyokeres-anvug7x1w4bd",
-            "dialogSlug": "arsenal_viktor-gyokeres-anvug7x1w4bd",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "id": "ans_1",
-              "text": "Виктор Дьёкереш",
-              "slug": "no_pic",
-              "isCorrect": true
-            },
-            {
-              "id": "ans_2",
-              "text": "Деклан Райс",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_3",
-              "text": "Риккардо Калафьори",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "id": "ans_4",
-              "text": "Христос Цолис",
-              "slug": "no_pic",
-              "isCorrect": false
-            },
-            {
-              "text": "Кай Хаверц",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Кепа Аррисабалага",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Бруно Гимарайнс",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "difficulty": "easy",
-          "playerInfo": {
-            "age": 28,
-            "nationality": "Швеция",
-            "countryCode": "SE",
-            "position": "Нападающий"
-          },
-          "sourceQuestionId": "club_arsenal_156"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_liverpool_113",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Какой элемент добавили на эмблему Ливерпуля к столетию клуба в 1992 году?",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Ворота Шенкли",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Кубок европейских чемпионов",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Силуэт Энфилда",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Трибуна Коп",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Река Мерси",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Статуя Шенкли",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Лента с датой основания",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "comment": "Ворота Шенкли появились на юбилейной версии эмблемы к 100-летию клуба.",
-          "difficulty": "normal",
-          "sourceQuestionId": "club_liverpool_113"
-        },
-        {
-          "id": "mt_liverpool_arsenal__club_arsenal_38",
-          "type": 1,
-          "kind": "multi_choice",
-          "payload": {},
-          "questionText": "Кто забил два штрафных Реалу в победе Арсенала 3:0 в Лиге чемпионов 2025 года?",
-          "media": {
-            "questionSlug": "no_pic",
-            "dialogSlug": "no_pic",
-            "correctSlug": "no_pic"
-          },
-          "answers": [
-            {
-              "text": "Деклан Райс",
-              "slug": "no_pic",
-              "isCorrect": true,
-              "id": "ans_1"
-            },
-            {
-              "text": "Тьерри Анри",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_2"
-            },
-            {
-              "text": "Деннис Бергкамп",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_3"
-            },
-            {
-              "text": "Патрик Виейра",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_4"
-            },
-            {
-              "text": "Тони Адамс",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_5"
-            },
-            {
-              "text": "Иан Райт",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_6"
-            },
-            {
-              "text": "Робер Пирес",
-              "slug": "no_pic",
-              "isCorrect": false,
-              "id": "ans_7"
-            }
-          ],
-          "comment": "Два штрафных Райса стали главным событием крупной победы Арсенала над Реалом.",
-          "difficulty": "easy",
-          "sourceQuestionId": "club_arsenal_38"
+          }
         }
       ]
     }

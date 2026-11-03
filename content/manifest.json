@@ -5,8 +5,8 @@
     "matchday_fallback": {
       "path": "src-assets/data/matchday-fallback.json",
       "rawUrl": "https://raw.githubusercontent.com/SvytoslavBorisov/WorldFootballQuizNetwork/main/content/src-assets/data/matchday-fallback.json",
-      "sha256": "20e14979a0ec299dc24c989fd605162bff2a5b5591e45e862a46a3def910747d",
-      "bytes": 28284
+      "sha256": "b4a9df8eb4ff498ff6c37020a602a4acdf84ad84ff33a71dd5cf352bc0bcb7ef",
+      "bytes": 1780
     }
   },
   "requiredMediaSlugs": []

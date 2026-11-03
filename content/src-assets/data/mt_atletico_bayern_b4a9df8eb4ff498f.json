@@ -1,0 +1,65 @@
+{
+  "id": "matchday",
+  "title": {
+    "ru": "Битва недели",
+    "en": "Main Event"
+  },
+  "packs": [
+    {
+      "id": "mt_atletico_bayern",
+      "title": {
+        "ru": "Атлетико Мадрид – Бавария",
+        "en": "Atletico Madrid – Bayern"
+      },
+      "summary": {
+        "ru": "Главное противостояние недели в Лиге Чемпионов!",
+        "en": "The main match of the week in the Champions League!"
+      },
+      "fixture": {
+        "competition": "ucl",
+        "round": "общий этап, 4-й тур",
+        "roundEn": "League phase, Matchday 4",
+        "kickoff": "2026-11-03T20:00:00.000Z",
+        "clubIds": [
+          "club_atletico",
+          "club_bayern"
+        ],
+        "sourceUrl": "https://soccer365.ru/live/match-bavariya-atletiko-smotret-onlayn/"
+      },
+      "questionCount": 20,
+      "questionIds": [
+        "club_atletico_129",
+        "club_bayern_45",
+        "club_atletico_30",
+        "club_bayern_6",
+        "club_atletico_103",
+        "club_bayern_15",
+        "club_atletico_32",
+        "club_bayern_43",
+        "club_atletico_45",
+        "club_bayern_17",
+        "club_atletico_90",
+        "club_bayern_19",
+        "club_atletico_88",
+        "club_bayern_207",
+        "club_atletico_26",
+        "club_bayern_228",
+        "club_atletico_99",
+        "club_bayern_218",
+        "club_atletico_126",
+        "club_bayern_57",
+        "club_atletico_50",
+        "club_bayern_208",
+        "club_atletico_73",
+        "club_bayern_7",
+        "club_atletico_125",
+        "club_bayern_55",
+        "club_atletico_23",
+        "club_bayern_1",
+        "club_atletico_60",
+        "club_bayern_58"
+      ],
+      "customQuestions": []
+    }
+  ]
+}

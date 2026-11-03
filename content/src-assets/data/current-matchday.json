@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "file": "mt_liverpool_arsenal_20e14979a0ec299d.json",
-  "sha256": "20e14979a0ec299dc24c989fd605162bff2a5b5591e45e862a46a3def910747d",
-  "bytes": 28284,
+  "file": "mt_atletico_bayern_b4a9df8eb4ff498f.json",
+  "sha256": "b4a9df8eb4ff498ff6c37020a602a4acdf84ad84ff33a71dd5cf352bc0bcb7ef",
+  "bytes": 1780,
   "title": {
-    "ru": "Ливерпуль – Арсенал",
-    "en": "Liverpool – Arsenal"
+    "ru": "Атлетико Мадрид – Бавария",
+    "en": "Atletico Madrid – Bayern"
   },
-  "homeClubId": "club_liverpool",
-  "awayClubId": "club_arsenal"
+  "homeClubId": "club_atletico",
+  "awayClubId": "club_bayern"
 }

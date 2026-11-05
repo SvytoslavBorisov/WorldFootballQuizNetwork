@@ -1,0 +1,65 @@
+{
+  "id": "matchday",
+  "title": {
+    "ru": "Битва недели",
+    "en": "Main Event"
+  },
+  "packs": [
+    {
+      "id": "mt_atletico_barcelona",
+      "title": {
+        "ru": "Атлетико Мадрид – Барселона",
+        "en": "Atletico Madrid – Barcelona"
+      },
+      "summary": {
+        "ru": "Главное противостояние недели в Ла Лиге!",
+        "en": "The main match of the week in La Liga!"
+      },
+      "fixture": {
+        "competition": "la_liga",
+        "round": "12 тур",
+        "roundEn": "Round 12",
+        "kickoff": "2026-11-08T20:00:00.000Z",
+        "clubIds": [
+          "club_atletico",
+          "club_barcelona"
+        ],
+        "sourceUrl": "https://soccer365.ru/live/match-barselona-atletiko-smotret-onlayn/"
+      },
+      "questionCount": 20,
+      "questionIds": [
+        "club_atletico_99",
+        "club_barcelona_169",
+        "club_atletico_82",
+        "club_barcelona_197",
+        "club_atletico_41",
+        "club_barcelona_171",
+        "club_atletico_4",
+        "club_barcelona_202",
+        "club_atletico_131",
+        "club_barcelona_73",
+        "club_atletico_77",
+        "club_barcelona_182",
+        "club_atletico_125",
+        "club_barcelona_190",
+        "club_atletico_55",
+        "club_barcelona_29",
+        "club_atletico_130",
+        "club_barcelona_39",
+        "club_atletico_23",
+        "club_barcelona_4",
+        "club_atletico_45",
+        "club_barcelona_163",
+        "club_atletico_44",
+        "club_barcelona_26",
+        "club_atletico_37",
+        "club_barcelona_195",
+        "club_atletico_128",
+        "club_barcelona_49",
+        "club_atletico_73",
+        "club_barcelona_33"
+      ],
+      "customQuestions": []
+    }
+  ]
+}

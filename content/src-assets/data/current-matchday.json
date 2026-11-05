@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "file": "mt_atletico_bayern_b4a9df8eb4ff498f.json",
-  "sha256": "b4a9df8eb4ff498ff6c37020a602a4acdf84ad84ff33a71dd5cf352bc0bcb7ef",
-  "bytes": 1780,
+  "file": "mt_atletico_barcelona_2075894d7ab4f0e9.json",
+  "sha256": "2075894d7ab4f0e975ecbb082eb7b8e53bed7308738aecfc7e73e95d35198b8e",
+  "bytes": 1782,
   "title": {
-    "ru": "Атлетико Мадрид – Бавария",
-    "en": "Atletico Madrid – Bayern"
+    "ru": "Атлетико Мадрид – Барселона",
+    "en": "Atletico Madrid – Barcelona"
   },
   "homeClubId": "club_atletico",
-  "awayClubId": "club_bayern"
+  "awayClubId": "club_barcelona"
 }
